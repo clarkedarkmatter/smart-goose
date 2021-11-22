@@ -186,7 +186,9 @@ sections:
     background_image_opacity: 98
 seo:
   title: David Sharp for Congress
-  description: The preview of the Podcaster theme
+  description: >-
+    Republican running to represent the people of Kentucky's 1st Congressional
+    District.
   extra:
     - name: 'og:type'
       value: website
