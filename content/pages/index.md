@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Send Sharp to Congress in 2022
-    subtitle: 'I''m '
+    subtitle: >-
+      Washington D.C. is being overrun by establishment, socialist ideology. We
+      need someone to fight for Kentucky.
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
