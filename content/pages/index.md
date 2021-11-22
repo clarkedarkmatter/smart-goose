@@ -11,7 +11,7 @@ sections:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
-    image: /images/Facebook-Covers-018.jpg
+    image: /images/Untitled design (49).png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
