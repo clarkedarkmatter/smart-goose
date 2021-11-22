@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Send Sharp to Congress in 2022
-    subtitle: >-
-      Washington D.C. is being overrun by establishment, socialist ideology. We
-      need someone to fight for Kentucky.
+    subtitle: Are you in Kentucky's 1st Congressional District?
     content: |
       We need your support for the Primary in May 2022.
     actions:
