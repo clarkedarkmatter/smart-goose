@@ -2,7 +2,7 @@
     "title": "Stackbit Podcaster Theme",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "minimal",
+    "style": "bold",
     "palette": "gray",
     "mode": "dark",
     "base_font": "sans-serif",
