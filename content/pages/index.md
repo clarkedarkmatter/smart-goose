@@ -200,7 +200,7 @@ seo:
       value: The preview of the Podcaster theme
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: /images/IMG_20211107_132626533_HDR.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
