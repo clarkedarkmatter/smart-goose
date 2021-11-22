@@ -111,7 +111,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Interested in hosting David for an event?\n",
+        "anncmnt_content": "Interested in hosting David for an event? [Learn more](google.com)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
