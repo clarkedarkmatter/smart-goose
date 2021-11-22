@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Vote David Sharp for Congress
+    title: Vote Sharp for Congress in May 2022
     subtitle: Optional hero section subtitle
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
