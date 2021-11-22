@@ -1,5 +1,5 @@
 ---
-title: David Sharp - the Veteran
+title: 'David Sharp, a Veteran for Kentucky''s First District'
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
