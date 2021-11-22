@@ -5,7 +5,7 @@ sections:
     title: Send Sharp to Congress in 2022
     subtitle: >-
       Washington D.C. is being overrun by establishment, socialist ideology. We
-      need strong Republicans to fight back.
+      need strong Conservative Republicans to  to fight back.
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
