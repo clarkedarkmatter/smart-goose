@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Send Sharp to Congress in 2022
-    subtitle: Optional hero section subtitle
+    subtitle: David Sharp represents conservative voters in Kentucky.
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
