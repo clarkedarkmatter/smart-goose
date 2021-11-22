@@ -1,5 +1,5 @@
 ---
-title: David Sharp represents Veterans
+title: David Sharp - the Veteran
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
