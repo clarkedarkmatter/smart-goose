@@ -1,6 +1,8 @@
 ---
 title: Sharp for Congress Campaign Featured in State's Largest Veteran's Parade
-subtitle: David Sharp understands veterans on a level his opponent never will.
+subtitle: >-
+  David Sharp understands our Veterans on a level his primary opponent never
+  will.
 date: '2020-10-12'
 categories:
   - content/data/categories/season-1.yaml
