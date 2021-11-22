@@ -1,8 +1,6 @@
 ---
 title: Sharp for Congress Campaign Featured in State's Largest Veteran's Parade
-subtitle: >-
-  David Sharp understands what it's like to serve - and he's ready for his
-  biggest job yet, representing the great people of Kentucky in Congress.
+subtitle: David Sharp understands veterans on a level his opponent never will.
 date: '2020-10-12'
 categories:
   - content/data/categories/season-1.yaml
