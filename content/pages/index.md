@@ -6,10 +6,8 @@ sections:
     subtitle: >-
       Washington D.C. is being overrun by establishment, socialist ideology. We
       need someone to fight for Kentucky.
-    content: >
-      I grew up to believe that politics wasn't meant to a lifetime position. I
-      intend on serving, representing the people of Kentucky to my highest
-      ability, then focusing on my faith, family and community.
+    content: |
+      We need your support for the Primary in May 2022.
     actions:
       - label: Join Team Sharp
         url: /thank-you
