@@ -1,5 +1,5 @@
 ---
-title: 'David Sharp, a Veteran for Kentucky''s First District'
+title: Sharp Campaign W
 subtitle: >-
   David Sharp understands what it's like to serve - and he's ready for his
   biggest job yet, representing the great people of Kentucky in Congress.
