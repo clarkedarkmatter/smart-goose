@@ -33,7 +33,7 @@
             {
                 "label": "Chip in $5 Today",
                 "url": "/subscribe",
-                "style": "secondary"
+                "style": "link"
             }
         ]
     },
