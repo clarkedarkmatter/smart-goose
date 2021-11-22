@@ -1,5 +1,5 @@
 ---
-title: Sharp for Congress Campaign Walks in Largest Veteran's Parade in KY
+title: Sharp for Congress Campaign Walks in State's Largest Veteran's Parade
 subtitle: >-
   David Sharp understands what it's like to serve - and he's ready for his
   biggest job yet, representing the great people of Kentucky in Congress.
