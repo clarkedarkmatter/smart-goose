@@ -1,8 +1,8 @@
 ---
 title: 'David Sharp, a Veteran for Kentucky''s First District'
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+  David Sharp understands what it's like to serve - and he's ready for his
+  biggest job yet, representing the great people of Kentucky in Congress.
 date: '2020-10-12'
 categories:
   - content/data/categories/season-1.yaml
