@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Send Sharp to Congress in 2022
-    subtitle: David Sharp represents conservative voters in Kentucky.
+    subtitle: >-
+      If we don't send stronger Republicans to Washington in 2022, we'll lose to
+      the Radical Left in 2024.
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
