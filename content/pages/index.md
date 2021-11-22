@@ -46,7 +46,7 @@ sections:
   - type: grid_section
     title: Support David Sharp for Congress
     grid_items:
-      - title: Apple Podcasts
+      - title: Apple PodcastsDonat
         title_align: center
         content_align: center
         actions:
