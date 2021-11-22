@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Send Sharp to Congress in 2022
     subtitle: >-
-      If we don't send stronger Republicans to Washington in 2022, we'll lose to
-      the Radical Left in 2024.
+      Washington D.C. is being overrun by establishment, socialist ideology. We
+      need strong Republicans to fight back.
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
