@@ -7,25 +7,30 @@
     "mode": "dark",
     "base_font": "sans-serif",
     "header": {
-        "title": "Podcaster",
-        "logo": "images/logo.svg",
+        "title": "David Sharp for Congress",
+        "logo": "images/logo2.svg",
         "logo_alt": "Podcaster logo",
         "has_primary_nav": true,
         "primary_nav_links": [
-            {
-                "label": "Episodes",
-                "url": "/episodes",
-                "style": "link"
-            },
             {
                 "label": "About",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Sponsoring",
-                "url": "/advertising",
+                "label": "Join",
+                "url": "/join",
                 "style": "link"
+            },
+            {
+                "label": "Posts",
+                "url": "/episodes",
+                "style": "link"
+            },
+            {
+              "label": "Contact",
+              "url": "/contact",
+              "style": "link"
             }
         ],
         "has_secondary_nav": true,
@@ -38,7 +43,7 @@
         ]
     },
     "footer": {
-        "logo": "images/logo.svg",
+        "logo": "images/logo2.svg",
         "logo_alt": "Podcaster logo",
         "has_primary_nav": true,
         "primary_nav_links": [
@@ -107,7 +112,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; David Sharp for Congress. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "announcement": {
         "has_anncmnt": true,

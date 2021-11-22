@@ -11,7 +11,7 @@ sections:
         url: /thank-you
         style: primary
     image: /images/Untitled design (49).png
-    image_alt: Hero section placeholder image
+    image_alt: David Sharp
     media_position: left
     media_width: fifty
     align: left
