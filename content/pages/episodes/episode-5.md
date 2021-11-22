@@ -1,8 +1,8 @@
 ---
 title: Sharp for Congress Campaign Featured in State's Largest Veteran's Parade
 subtitle: >-
-  David Sharp understands our Veterans better than his primary opponent or
-  Democrats ever will.
+  David Sharp understands what our Veterans deserve better than his primary
+  opponent - or Democrats - ever will.
 date: '2020-10-12'
 categories:
   - content/data/categories/season-1.yaml
