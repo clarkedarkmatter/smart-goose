@@ -197,7 +197,7 @@ seo:
       value: David Sharp for Congress
       keyName: property
     - name: 'og:description'
-      value: The preview of the Podcaster theme
+      value: The official campaign page for David Sharp for Congress.
       keyName: property
     - name: 'og:image'
       value: /images/IMG_20211107_132626533_HDR.jpg
