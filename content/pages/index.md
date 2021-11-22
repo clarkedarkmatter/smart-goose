@@ -83,7 +83,7 @@ sections:
         content_align: center
         actions:
           - label: Subscribe
-            url: /thank-you
+            url: /about
             style: secondary
             has_icon: true
             icon: arrow-right
