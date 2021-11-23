@@ -2,12 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: Send Sharp to Congress in 2022
+    title: Send Sharp to Congress
     subtitle: Are you in Kentucky's 1st Congressional District?
     content: |
       We need your support for the Primary in May 2022.
     actions:
-      - label: See how you can support Team Sharp >>> 
+      - label: See how you can support Team Sharp >>>
         url: /support
         style: primary
     image: /images/Untitled design (49).png
@@ -142,9 +142,8 @@ sections:
     has_border: true
     background_color: none
   - type: form_section
-    content: >-
+    content: |-
       # Join the Movement
-
       Enter an email to get the latest political news & campaign updates!
     content_align: left
     form_position: right
