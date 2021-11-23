@@ -1,7 +1,7 @@
 ---
 title: About
 seo:
-  title: About
+  title: About David Sharp for Congress
   description: This is the about page
   extra:
     - name: og:type
@@ -29,10 +29,40 @@ seo:
 layout: page
 ---
 
-![Me doing live podcast](/images/about.png)
+![David Family](/images/david-campaign.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo lacus at commodo dictum. Nam tempus erat nec magna blandit, vitae fringilla nisl mattis. Aenean laoreet, lectus sed pretium volutpat, dui ante consectetur leo, a volutpat diam est vel sapien. Nullam sodales tristique metus, nec semper elit finibus eu. Suspendisse ornare est sit amet massa aliquam tincidunt. Vivamus feugiat elit ullamcorper erat mollis placerat. Suspendisse lacus dolor, eleifend id lacinia eget, venenatis et ligula.
 
-Suspendisse in arcu aliquet, convallis dui quis, egestas lectus. Nullam scelerisque venenatis erat ut sollicitudin. Suspendisse tristique odio eu tristique pharetra. Praesent cursus maximus porta. Nunc bibendum ipsum eu velit tincidunt, quis malesuada felis sollicitudin. In tristique laoreet fringilla. Duis varius tincidunt pharetra.
+# Kentucky's Issues
 
-Curabitur eget orci in metus mattis maximus sit amet ut leo. Vestibulum a velit enim. Morbi semper lobortis nulla, non fermentum eros. Nulla luctus metus ac erat aliquet molestie. Nulla lectus sem, vehicula ut viverra at, fermentum sed enim. Curabitur magna nulla, efficitur a lorem a, rhoncus condimentum ex. Cras mi lacus, feugiat non mauris congue, rutrum iaculis metus. Nulla auctor pretium rhoncus. Donec sed nisl pretium, fermentum mi vel, faucibus augue. Vestibulum sed eros ultricies, dignissim erat quis, lobortis mauris. Sed porttitor varius felis, et auctor enim dictum in. Aenean rhoncus condimentum nunc ac mattis. Sed iaculis magna a mi sodales, ut ultricies mi malesuada.
+### Education, Spending, Attitudes
+
+David supports parents right to choose how their child grows up. Unmasking our kids and school choice.
+
+### Term Limits
+
+David believes that lifetime politicians are dangerous for our nation. Without a changing leadership in Washington, our representation becomes stagnant and the representatives lose touch with the voters.
+
+The time for my opponent is up.
+
+##### Support these things too?
+[Help David Win!](/join)
+
+
+# Kentucky's 1st District
+
+### David Sharp is a Republican running to represent Kentucky's 1st Congressional District.
+#### Kentucky counties within the 1st Congressional District:
+
+Adair, Allen, Ballard, Caldwell, Calloway, Carlisle, Casey, Christian, Clinton, Crittenden, Cumberland, Fulton, Graves, Henderson, Hickman, Hopkins, Livingston, Logan, Lyon, Marshall, Marion, McCracken, McLean, Metcalfe, Monroe, Muhlenberg, Ohio, Russell, Simpson, Taylor, Todd, Trigg, Union, Washington, and Webster.
+
+##### Are you in the 1st District?
+[Join the Fight!](/join)
+
+# Kentucky's Candidate
+
+### David Sharp is a father, a husband, a veteran and a Christian.
+![David Family](/images/david-family.jpg)
+
+
+##### Think David will help our country get back on the right path?
+[Host an Event](/join)

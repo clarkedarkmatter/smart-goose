@@ -1,62 +1,62 @@
 ---
-title: Subscribe
+title: Support Team Sharp & Kentucky Values
 sections:
   - type: hero_section
-    title: Subscribe
+    title: Support Team Sharp
     subtitle: >-
-      Pick your favorite podcast platform
+      Help us win BIG against the Radical Left and RINOs in 2022.
     align: center
-    padding_top: large
+    padding_top: small
     padding_bottom: none
     background_color: none
     has_border: false
   - type: grid_section
     grid_items:
-      - title: Apple Podcasts
+      - title: Donate to David
         title_align: center
         content_align: center
         actions:
-          - label: Subscribe
-            url: /thank-you
-            style: secondary
+          - label: Chip in $5
+            url: https://secure.winred.com/david-sharp-campaign-fund/win
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/icon-1.svg
-        image_alt: Apple Podcasts icon
+        image: images/give.png
+        image_alt: Give to Team Sharp
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Spotify
+      - title: Volunteer or Host
         title_align: center
         content_align: center
         actions:
-          - label: Subscribe
-            url: /thank-you
-            style: secondary
+          - label: Fill Out Form
+            url: /
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/icon-2.svg
+        image: images/join.png
         image_alt: Spotify icon
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Overcast
+      - title: Follow the Campaign
         title_align: center
         content_align: center
         actions:
-          - label: Subscribe
-            url: /thank-you
-            style: secondary
+          - label: See ways to stay involved
+            url: /contact
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/icon-3.svg
-        image_alt: Overcast icon
+        image: images/join.png
+        image_alt: follow
         image_position: top
         image_align: center
         image_has_padding: true

@@ -1,11 +1,11 @@
 ---
-title: Episodes
+title: On the Campaign Trail
 sections:
   - type: hero_section
-    title: Episodes
-    subtitle: List of episodes in order
+    title: On the Campaign Trail
+    subtitle: Latest press releases, posts and stances on issues.
     align: center
-    padding_top: medium
+    padding_top: large
     padding_bottom: small
     has_border: true
     background_color: none
@@ -14,7 +14,7 @@ sections:
     enable_cards: true
     show_recent: false
     show_date: true
-    show_categories: false
+    show_categories: true
     show_author: false
     show_excerpt: true
     show_image: true
@@ -27,7 +27,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - type: form_section
-    title: Get Podcast Straight Into your Inbox
+    title: Sign up to stay informed.
     title_align: center
     content_align: center
     form_position: bottom
@@ -46,17 +46,17 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Episodes
-  description: This is the episodes page
+  title: Posts
+  description: This is David Sharp's post page
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Episodes
+      value: Posts
       keyName: property
     - name: og:description
-      value: This is the episodes page
+      value: This is the posts page
       keyName: property
     - name: og:image
       value: images/post-9.jpg

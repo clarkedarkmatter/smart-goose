@@ -7,8 +7,8 @@ sections:
     content: |
       We need your support for the Primary in May 2022.
     actions:
-      - label: Join Team Sharp
-        url: /thank-you
+      - label: See how you can support Team Sharp >>> 
+        url: /support
         style: primary
     image: /images/Untitled design (49).png
     image_alt: David Sharp
@@ -44,7 +44,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - type: grid_section
-    title: Support David Sharp for Congress
+    title: Join David Sharp for Congress
     grid_items:
       - title: Donate
         title_align: center
@@ -108,8 +108,8 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: grid_section
-    title: Partners
-    subtitle: 2021 Supporters
+    title: Endorsements
+    subtitle: 20
     align: center
     grid_items:
       - image: images/logo-1.svg
@@ -143,13 +143,12 @@ sections:
     background_color: none
   - type: form_section
     content: >-
-      ## Ask A Question
+      # Join the Movement
 
-      I'm OK with any kind of questions and will answer as many as I possibly
-      can.
+      Enter an email to get the latest political news & campaign updates!
     content_align: left
     form_position: right
-    form_width: fifty
+    form_width: sixty
     form_layout: inline
     enable_card: true
     form_id: contact-form

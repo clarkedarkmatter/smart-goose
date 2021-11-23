@@ -18,13 +18,13 @@
                 "style": "link"
             },
             {
-                "label": "Join",
-                "url": "/join",
+                "label": "Support",
+                "url": "/support",
                 "style": "link"
             },
             {
                 "label": "Posts",
-                "url": "/episodes",
+                "url": "/posts",
                 "style": "link"
             },
             {
@@ -36,30 +36,25 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Chip in $5 Today",
-                "url": "/subscribe",
+                "label": "Chip in $5 To Win in 2022",
+                "url": "https://secure.winred.com/david-sharp-campaign-fund/win",
                 "style": "primary"
             }
         ]
     },
     "footer": {
         "logo": "images/logo2.svg",
-        "logo_alt": "Podcaster logo",
+        "logo_alt": "Sharp For KY",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Episodes",
-                "url": "/episodes",
+                "label": "Donate",
+                "url": "https://secure.winred.com/david-sharp-campaign-fund/win",
                 "style": "link"
             },
             {
-                "label": "Subscribe",
-                "url": "/subscribe",
-                "style": "link"
-            },
-            {
-                "label": "Advertising",
-                "url": "/advertising",
+                "label": "Join",
+                "url": "/support",
                 "style": "link"
             }
         ],
@@ -71,13 +66,8 @@
                 "style": "link"
             },
             {
-                "label": "Terms",
-                "url": "/terms-conditions",
-                "style": "link"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
+                "label": "Posts",
+                "url": "/posts",
                 "style": "link"
             }
         ],
@@ -112,11 +102,11 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; David Sharp for Congress. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; David Sharp for Congress & . All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Interested in hosting David for an event? [Learn more](google.com)\n",
+        "anncmnt_content": "Interested in hosting David for an event? [Learn more](/join)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
