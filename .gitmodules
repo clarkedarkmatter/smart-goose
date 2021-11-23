@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"]
+  path = /
+  url = git://https://github.com/clarkedarkmatter/smart-goose
