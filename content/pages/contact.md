@@ -32,16 +32,16 @@ layout: page
 
 ## Follow David Sharp on Social Media
 
-- Facebook - [booking right there](/thank-you)
-- Instagram - [booking right there](/thank-you)
-- Gab - [booking right there](/thank-you)
-- Rumble - [booking right there](/thank-you)
+- Facebook - [Visit our Facebook Page](/thank-you)
+- Instagram - [Visit our Instagram Page](/thank-you)
+- Gab - [Visit our Gab Page](/thank-you)
+- Rumble - [Visit our Rumble Page](/thank-you)
 <hr>
 
 # Interested in contacting David Sharp's campaign?
 
 - You can email us @ [david@davidsharp4congress.org](mailto:david@davidsharp4congress.org).
-- Call or text us @
+- Call or text us @ [270-836-6642](tel:2708366642).
 - Message us on Facebook by clicking [here.](http://m.me/sharp4ky)
 
 

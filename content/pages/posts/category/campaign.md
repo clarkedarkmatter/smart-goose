@@ -1,9 +1,9 @@
 ---
-title: Episodes, Season 1
+title: Campaign
 sections:
   - type: hero_section
-    title: Episodes
-    subtitle: Season 1
+    title: Campaign posts
+    subtitle: 2021-2022
     align: center
     padding_top: medium
     padding_bottom: small
@@ -13,7 +13,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    category: content/data/categories/season-1.yaml
+    category: content/data/categories/campaign.yaml
     show_date: true
     show_categories: false
     show_author: false

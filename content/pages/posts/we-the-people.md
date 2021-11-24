@@ -4,7 +4,7 @@ subtitle: >-
   In Madisonville, Kentucky, David walks with Veterans in the a huge showing of support for our nations' heroes.
 date: 2021-11-06
 categories:
-  - content/data/categories/season-1.yaml
+  - content/data/categories/campaign.yaml
 thumb_image: images/david-and-mike.jpg
 thumb_image_alt: Sharp at Veterans Parade
 image: images/david-and-mike.jpg

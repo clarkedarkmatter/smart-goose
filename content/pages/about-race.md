@@ -29,6 +29,7 @@ seo:
 layout: page
 ---
 ---
+## The Primary is in May of 2022.
 ### Are you Kentucky's 1st District?
 
 #### David Sharp is a Republican running to represent Kentucky's 1st Congressional District.

@@ -4,7 +4,7 @@ subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse.
 date: 2021-05-12
 categories:
-  - content/data/categories/season-2.yaml
+  - content/data/categories/campaign.yaml
 thumb_image: images/davidhomeless.jpg
 thumb_image_alt: Episode 10 placeholder image
 image: images/homeless.jpg

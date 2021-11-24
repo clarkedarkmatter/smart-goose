@@ -39,4 +39,4 @@ Want to help take down the establishment and start something new?
 ***[Help David Win!](/support)***
 ---
 
-### [--> Read about David Sharp the candidate](/about-issues)
+### [--> Read about David's platform](/about-issues)

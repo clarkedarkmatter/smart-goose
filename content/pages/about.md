@@ -29,16 +29,18 @@ seo:
 layout: page
 ---
 ---
-## What are his stances on the issues?
+### What are his stances on the issues?
 - [Read David's Platform](/about-issues)
+---
 
-## Who is David Sharp?
+### Who is David Sharp?
 - [Read about David Sharp](/about-david)
+---
 
-## When and where is election?
+### When and where is election?
 - [Read about the upcoming 2022 Election](/about-race)
-
-## Who is David's opponent?
+---
+### Who is David's opponent?
 - [Read about David Sharp's primary challenger](/about-challenger)
 
 ![David with Campaign](/images/sharp-campaign.jpg)
