@@ -108,34 +108,23 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: grid_section
-    title: Media
-    subtitle: 20
+    title: Highlights
+    subtitle: 2021
     align: center
     grid_items:
-      - image: images/about.png
-        image_alt: Stackbit logo
-        image_align: center
-      - image: images/logo-2.svg
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/logo-3.svg
+      - image: images/highlights-3.png
         image_alt: Sticker Mule logo
         image_align: center
-      - image: images/logo-4.svg
+      - image: images/highlight.jpg
+        image_alt: We The People Reunion Speech
+        image_align: center
+      - image: images/highlights-4.png
         image_alt: GitHub logo
         image_align: center
-      - image: images/logo-5.svg
+      - image: images/highlights-6.png
         image_alt: Gatsby logo
         image_align: center
-      - image: images/logo-6.svg
-        image_alt: Twilio logo
-        image_align: center
-      - image: images/logo-7.svg
-        image_alt: Contentful logo
-        image_align: center
-      - image: images/logo-8.svg
-        image_alt: Forestry logo
-        image_align: center
+
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
@@ -143,35 +132,20 @@ sections:
     background_color: none
   - type: form_section
     content: |-
-      # Join the Movement
-      Enter an email to get the latest political news & campaign updates!
+      # Join a Movement to Save Our Nation
+      Add your email to the growing list of Kentuckians fed up with the status quo.
     content_align: left
     form_position: right
-    form_width: sixty
+    form_width: fifty
     form_layout: inline
     enable_card: true
     form_id: contact-form
-    form_action: /thank-you
+    form_action: https://formkeep.com/f/7d735d06c1e5
     form_fields:
-      - input_type: text
-        name: name
-        label: Name
-        default_value: Your name
-        is_required: true
       - input_type: email
         name: email
         label: Email
         default_value: Your email address
-        is_required: true
-      - input_type: textarea
-        name: message
-        label: Question
-        default_value: Your question
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
         is_required: true
     submit_label: Submit
     align_vert: top

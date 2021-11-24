@@ -1,5 +1,5 @@
 ---
-title: Support Team Sharp & Kentucky Values
+title: Support Team Sharp
 sections:
   - type: hero_section
     title: Support Team Sharp
@@ -32,8 +32,8 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: Fill Out Form
-            url: /
+          - label: Submit a Request
+            url: /join
             style: primary
             has_icon: true
             icon: arrow-right

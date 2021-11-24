@@ -33,7 +33,7 @@ sections:
     form_position: bottom
     form_layout: inline
     form_id: subscribeForm
-    form_action: /thank-you
+    form_action: https://formkeep.com/f/7d735d06c1e5
     form_fields:
       - input_type: email
         name: email

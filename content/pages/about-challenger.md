@@ -1,7 +1,7 @@
 ---
-title: About David's Campaign
+title: David's Opponent
 seo:
-  title: About David Sharp for Congress
+  title: About David Sharp for Congress' Opponent
   description: This is the about page
   extra:
     - name: og:type
@@ -29,17 +29,14 @@ seo:
 layout: page
 ---
 ---
-## What are his stances on the issues?
-- [Read David's Platform](/about-issues)
 
-## Who is David Sharp?
-- [Read about David Sharp](/about-david)
 
-## When and where is election?
-- [Read about the upcoming 2022 Election](/about-race)
-
-## Who is David's opponent?
-- [Read about David Sharp's primary challenger](/about-challenger)
-
-![David with Campaign](/images/sharp-campaign.jpg)
+# Who is David running against?
 ---
+### David's oppenent in May will be incumbent Jamie Comer Jr.
+---
+Want to help take down the establishment and start something new?
+***[Help David Win!](/support)***
+---
+
+### [--> Read about David Sharp the candidate](/about-issues)
