@@ -1,17 +1,17 @@
 ---
-title: David Sharp attends Largest Veterans Parade in KY
+title: General Micheal Flynn, Mike Lindell & David speak at We The People
 subtitle: >-
   In Madisonville, Kentucky, David walks with Veterans in the a huge showing of support for our nations' heroes.
 date: 2021-11-06
 categories:
   - content/data/categories/season-1.yaml
-thumb_image: images/sharp-campaign.jpg
+thumb_image: images/david-and-mike.jpg
 thumb_image_alt: Sharp at Veterans Parade
-image: images/sharp-campaign.jpg
+image: images/david-and-mike.jpg
 image_alt: Podcast 1 placeholder image
 image_position: left
 episode_embed_html: >-
-
+  <iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/vkwq17/?pub=sh39v" frameborder="0" allowfullscreen></iframe>
 seo:
   title: David Sharp attends Largest Veterans Parade in KY
   description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
@@ -40,35 +40,15 @@ seo:
       relativeUrl: true
 layout: post
 ---
-# David Sharp is a veteran too.
 
-### David and his campaign were honored to be a part of the parade.
+## Watch the speech.
 
-![David with Jeep](/images/notforgot.jpg)
-David talked to a lot of voters, gave out a LOT of candy and most importantly, honored our VETERANS for what they sacrificed.
+### Did you know? David's campaign slogan is 'We The People'
 
-#### If you'd like to help the campaign:
-### [ Click Here <--](/support)
-<hr>
-
-# We met some great people.
-
-![David with Jeep](/images/letsgobrandon.jpg)
-#LetsGoBrandon
-
-#### If you'd like to help the campaign:
-### [ Click Here <--](/support)
-<hr>
+Alongside guests and speakers like General Michael Flynn, Ann Vandersteel, Artur Pawlowski, John Di Lemme, founder of the Conservative Business Journal, Pastor Greg Locke and Tom Homan, former Acting Director of ICE, David Sharp slams Planned Parenthood, excessive spending and tells us to 'Demand America First' in every aspect of our lives.
 
 
+[If you Support The Campaign - Click Here](/support)
 
-# Hundreds of people from dozens of groups showed up.
 
-![David with Jeep](/images/davidjeep.jpg)
-![David with Jeep](/images/david-veterans-talking.jpg)
-
-#jeep
-
-#### If you'd like to help the campaign:
-### [ Click Here <--](/support)
-<hr>
+![David with Brandon](/images/.jpg)

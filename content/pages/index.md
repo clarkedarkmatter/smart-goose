@@ -44,21 +44,21 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - type: grid_section
-    title: Join David Sharp for Congress
+    title: Support David Sharp for Congress
     grid_items:
       - title: Donate
         title_align: center
         content_align: center
         actions:
-          - label: Subscribe
-            url: /thank-you
+          - label: Chip in to win in 2022
+            url: https://secure.winred.com/david-sharp-campaign-fund/win
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/icon-1.svg
-        image_alt: Apple Podcasts icon
+        image: images/donate.png
+        image_alt: Donate
         image_position: top
         image_align: center
         image_has_padding: true
@@ -66,30 +66,30 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: Subscribe
-            url: /thank-you
+          - label: Sign up to volunteer or host
+            url: /
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/icon-2.svg
+        image: images/group.png
         image_alt: Spotify icon
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: About
+      - title: Follow
         title_align: center
         content_align: center
         actions:
-          - label: Subscribe
-            url: /about
+          - label: Contact us on social media
+            url: /contact
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/icon-3.svg
+        image: images/join.png
         image_alt: Overcast icon
         image_position: top
         image_align: center
@@ -103,16 +103,16 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: primary
-    background_image: images/subscribe-background.jpg
+    background_image: images/sharp-campaign.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
   - type: grid_section
-    title: Endorsements
+    title: Media
     subtitle: 20
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/about.png
         image_alt: Stackbit logo
         image_align: center
       - image: images/logo-2.svg

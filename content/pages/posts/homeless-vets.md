@@ -42,7 +42,7 @@ layout: post
 ---
 
 ##### Join the campaign
-by clicking [here.](/join)
+by clicking [here.](/support)
 
 ## As a veteran himself,
 ### David feels we must prioritize our veterans more - and illegal aliens and refugees less.
@@ -54,7 +54,7 @@ Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia dic
 ![Homeless](/images/davidhomeless.jpg)
 
 ##### Fight for veterans
-by clicking [here.](/join)
+by clicking [here.](/support)
 
 Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quorum sine causa fieri nihil putandum est. Sit enim idem caecus, debilis. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum; Urgent tamen et nihil remittunt. Quae contraria sunt his, malane? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Atque his de rebus et splendida est eorum et illustris oratio. Haec para/doca illi, nos admirabilia dicamus. Non est ista, inquam, Piso, magna dissensio.
 
