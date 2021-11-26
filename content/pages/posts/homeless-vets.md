@@ -1,7 +1,7 @@
 ---
 title: David visits Homeless Veterans facilities
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse.
+  The Sharp Campaign heads to Madisonville.
 date: 2021-05-12
 categories:
   - content/data/categories/campaign.yaml
@@ -42,20 +42,16 @@ layout: post
 ---
 
 ##### Join the campaign
-by clicking [here.](/support)
+by clicking [here.](/join)
 
 ## As a veteran himself,
-### David feels we must prioritize our veterans more - and illegal aliens and refugees less.
-
+#### David feels we must prioritize our veterans more - and illegal aliens and refugees less.
+##### Over 40,000 veterans and their families don't know where they'll sleep tonight.
 ### It's our responsibility.
-
-Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse. Quid igitur, inquit, eos responsuros putas? Age, inquies, ista parva sunt. Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;
 
 ![Homeless](/images/davidhomeless.jpg)
 
 ##### Fight for veterans
-by clicking [here.](/support)
-
-Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quorum sine causa fieri nihil putandum est. Sit enim idem caecus, debilis. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum; Urgent tamen et nihil remittunt. Quae contraria sunt his, malane? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Atque his de rebus et splendida est eorum et illustris oratio. Haec para/doca illi, nos admirabilia dicamus. Non est ista, inquam, Piso, magna dissensio.
+by clicking [here.](/join)
 
 # [See Next Post ->](/)
