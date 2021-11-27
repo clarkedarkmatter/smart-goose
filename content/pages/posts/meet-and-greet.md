@@ -7,7 +7,7 @@ categories:
   - content/data/categories/campaign.yaml
 thumb_image: images/meet-and-greet.jpg
 thumb_image_alt: Sharp at Veterans Parade
-image: images/meet-and-greet.jpg
+image: /images/meet-and-greet-2.png
 image_alt: Last Meet and Greet
 image_position: left
 episode_embed_html: >-
@@ -41,6 +41,7 @@ seo:
 layout: post
 ---
 ---
+# Public event.
 ### We'll be @ El Bracero taking questions this Monday, November 29th.
 
 #### Can't wait to have some great food and meet some more great people from Central City!
@@ -48,11 +49,11 @@ layout: post
 - 609 S 2nd St. Central City, KY 42330
 - 5:30 p.m. - 8:00 p.m.
 
-![El Bracero](/images/meet-and-greet-2.png)
+![El Bracero](/images/meet-and-greet.jpg)
 
 
-### Public is welcome. We will be going live on Facebook and you can submit your questions below.
-[RSVP on Facebook](https://fb.me/e/4Fp3yJfiN)
+# We will be going live on Facebook and you can submit your questions below.
+## -> [RSVP on Facebook](https://fb.me/e/4Fp3yJfiN)
 
 [To submit a question to David to be featured on his Facebook Live - Click Here](http://m.me/sharp4ky)
 
