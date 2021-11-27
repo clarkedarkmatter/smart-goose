@@ -32,6 +32,7 @@ layout: page
 # Kentucky's Candidate
 
 ### David Sharp is a father, a husband, a veteran and a Christian.
+![David Family](/images/david-family-2.jpg)
 
 In the wake of all that's been going on in our nation, David Sharp has remained a steadfast reminder to his family, friends and community that a better future lies ahead.
 <br>
