@@ -2,7 +2,7 @@
 title: General Micheal Flynn, Mike Lindell & David speak at We The People
 subtitle: >-
   In Madisonville, Kentucky, David walks with Veterans in the a huge showing of support for our nations' heroes.
-date: 2021-11-06
+date: 2021-10-20
 categories:
   - content/data/categories/campaign.yaml
 thumb_image: images/david-and-mike.jpg

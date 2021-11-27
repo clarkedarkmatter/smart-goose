@@ -54,4 +54,4 @@ by clicking [here.](/join)
 ##### Fight for veterans
 by clicking [here.](/join)
 
-# [See Next Post ->](/)
+# [See Next Post ->](/posts/we-the-people)

@@ -1,29 +1,29 @@
 ---
 title: David speaks in protest of masking children at a school board meeting
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse.
+
 date: 2021-05-12
 categories:
   - content/data/categories/campaign.yaml
 thumb_image: images/school-board-2.jpg
 thumb_image_alt: Episode 10 placeholder image
 image: images/school-board.jpg
-image_alt: Episode 10 placeholder image
-image_position: right
+image_alt: School board
+image_position: left
 episode_embed_html: >-
 
 seo:
-  title: Episode 10 - Voluptas Percipitur Ex Vilissimis
-  description: Quis est, qui non oderit libidinosam, protervam adolescentiam
+  title: David speaks in protest of masking children at a school board meeting
+  description:
   extra:
     - name: og:type
       value: article
       keyName: property
     - name: og:title
-      value: Episode 10 - Voluptas Percipitur Ex Vilissimis
+      value:
       keyName: property
     - name: og:description
-      value: Quis est, qui non oderit libidinosam, protervam adolescentiam
+      value:
       keyName: property
     - name: og:image
       value: images/post-10.jpg
@@ -32,9 +32,9 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Episode 10 - Voluptas Percipitur Ex Vilissimis
+      value:
     - name: twitter:description
-      value: Quis est, qui non oderit libidinosam, protervam adolescentiam
+      value:
     - name: twitter:image
       value: images/post-10.jpg
       relativeUrl: true
