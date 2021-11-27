@@ -54,7 +54,6 @@ layout: post
 ### Public is welcome. We will be going live on Facebook and you can submit your questions below.
 [RSVP on Facebook](https://fb.me/e/4Fp3yJfiN)
 
-
 [To submit a question to David to be featured on his Facebook Live - Click Here](http://m.me/sharp4ky)
 
 ## Have questions?
