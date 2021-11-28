@@ -38,6 +38,10 @@ He will fight to stop all federal funding to Planned Parenthood.
 ### Pro 2nd Amendment
 The Constitution gives us the right to carry and bear arms.<br>
 Any attempt to take away that right is an assault on our liberties and our Constitution.
+<br>
+
+![David 2A winner](/images/david2a)
+
 
 ### Secure the Border
 We must finish the Wall and Secure the southern border.<br>
@@ -45,6 +49,9 @@ It is called Illegal Immigration for a reason.
 
 ### Drain The Swamp
 David 100% supports term limits in Congress and fight to bring a term limit bill to the floor.
+
+
+![Term Limits](/images/highlights-6.png)
 
 ---
 Support these things too?

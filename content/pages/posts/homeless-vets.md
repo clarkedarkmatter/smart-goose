@@ -6,14 +6,14 @@ date: 2021-05-12
 categories:
   - content/data/categories/campaign.yaml
 thumb_image: images/davidhomeless.jpg
-thumb_image_alt: Episode 10 placeholder image
+thumb_image_alt: David visits homeless veterans
 image: images/homeless.jpg
-image_alt: Episode 10 placeholder image
+image_alt: Homeless veterans
 image_position: right
 episode_embed_html: >-
 
 seo:
-  title: Episode 10 - Voluptas Percipitur Ex Vilissimis
+  title: David visits Homeless veterans facility
   description: Quis est, qui non oderit libidinosam, protervam adolescentiam
   extra:
     - name: og:type

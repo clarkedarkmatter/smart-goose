@@ -8,13 +8,13 @@ seo:
       value: website
       keyName: property
     - name: og:title
-      value: About
+      value: About David Sharp's Campaign
       keyName: property
     - name: og:description
-      value: This is the about page
+      value: This is the About page of the official campaign website
       keyName: property
     - name: og:image
-      value: images/about.png
+      value: images/letsgobrandon.jpg
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -24,7 +24,7 @@ seo:
     - name: twitter:description
       value: This is the about page
     - name: twitter:image
-      value: images/about.png
+      value: images/letsgobrandon.jpg
       relativeUrl: true
 layout: page
 ---
