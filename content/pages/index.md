@@ -67,7 +67,7 @@ sections:
         content_align: center
         actions:
           - label: Sign up to volunteer or host
-            url: /
+            url: /join
             style: secondary
             has_icon: true
             icon: arrow-right
