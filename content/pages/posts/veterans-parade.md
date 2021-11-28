@@ -41,11 +41,13 @@ seo:
 layout: post
 ---
 # David Sharp is a veteran too.
+![David walks](/images/david-walks.jpg)
 
 ### David and his campaign were honored to be a part of the parade.
 
+
 ![David with Jeep](/images/notforgot.jpg)
-David talked to a lot of voters, gave out a LOT of candy and most importantly, honored our VETERANS for what they sacrificed.
+#### David talked to a lot of voters, gave out a LOT of candy and most importantly, honored our VETERANS for what they sacrificed.
 
 #### If you'd like to help the campaign:
 ### [ Click Here <--](/support)
@@ -60,14 +62,8 @@ David talked to a lot of voters, gave out a LOT of candy and most importantly, h
 ### [ Click Here <--](/support)
 <hr>
 
-
-
-# Hundreds of people from dozens of groups showed up.
-
 ![David with Jeep](/images/davidjeep.jpg)
 ![David with Jeep](/images/david-veterans-talking.jpg)
-
-#jeep
 
 #### If you'd like to help the campaign:
 ### [ Click Here <--](/support)
