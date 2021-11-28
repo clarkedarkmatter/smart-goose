@@ -13,6 +13,10 @@ seo:
     - name: og:description
       value: Join Team Sharp
       keyName: property
+    - name: og:image
+      value: images/sharp-campaign.jpg
+      keyName: property
+      relativeUrl: true
     - name: twitter:card
       value: summary
     - name: twitter:title
