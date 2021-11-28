@@ -2,23 +2,23 @@
 title: Join Team Sharp
 seo:
   title: Join
-  description: A reference for suggested typographic treatment and styles for your content
+  description: The official Join for for David Sharp for Congress.
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Theme Style Guide
+      value: Join Team Sharp - RINO Hunting 2022
       keyName: property
     - name: og:description
-      value: A reference for suggested typographic treatment and styles for your content
+      value: Join Team Sharp
       keyName: property
     - name: twitter:card
       value: summary
     - name: twitter:title
-      value: Theme Style Guide
+      value: Join Team Sharp
     - name: twitter:description
-      value: A reference for suggested typographic treatment and styles for your content
+      value: RINO Hunting 2022
 layout: page
 ---
 
