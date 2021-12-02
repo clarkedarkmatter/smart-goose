@@ -38,7 +38,7 @@ layout: page
 - Rumble - [Visit our Rumble Page](/thank-you)
 <hr>
 
-# Interested in contacting David Sharp's campaign?
+# Interested in speaking with David?
 
 - You can email us @ [david@davidsharp4congress.org](mailto:david@davidsharp4congress.org).
 - Call or text us @ [270-836-6642](tel:2708366642).

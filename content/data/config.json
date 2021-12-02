@@ -9,7 +9,7 @@
     "header": {
         "title": "David Sharp for Congress",
         "logo": "images/logo2.svg",
-        "logo_alt": "Podcaster logo",
+        "logo_alt": "Sharp for KY Logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
@@ -121,7 +121,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Come to our next event this Monday, November 29th! [Learn more.](/posts/meet-and-greet)\n",
+        "anncmnt_content": "Interested in hosting an event with David Sharp in 2022? [Contact the Campaign.](/contact)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
