@@ -49,22 +49,21 @@ layout: post
 ![David with Jeep](/images/notforgot.jpg)
 #### David talked to a lot of voters, gave out a LOT of candy and most importantly, honored our VETERANS for what they sacrificed.
 
-#### If you'd like to help the campaign:
-### [ Click Here <--](/support)
-<hr>
+---
 
-# We met some great people.
+#### If you'd like to help the campaign:
+# [ Click Here <--](/support)
+
+# Also, we met some really great people - and saw some cool cars.
 
 ![David with Jeep](/images/letsgobrandon.jpg)
-#LetsGoBrandon
 
-#### If you'd like to help the campaign:
-### [ Click Here <--](/support)
-<hr>
 
 ![David with Jeep](/images/davidjeep.jpg)
 ![David with Jeep](/images/david-veterans-talking.jpg)
 
 #### If you'd like to help the campaign:
 ### [ Click Here <--](/support)
-<hr>
+---
+
+# [See Last Post -->](/posts/we-the-people)

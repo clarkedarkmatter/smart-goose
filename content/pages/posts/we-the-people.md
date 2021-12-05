@@ -6,15 +6,15 @@ date: 2021-10-20
 categories:
   - content/data/categories/campaign.yaml
 thumb_image: images/david-and-mike.jpg
-thumb_image_alt: Sharp at Veterans Parade
+thumb_image_alt: Sharp at We The People
 image: images/david-and-mike.jpg
 image_alt: Podcast 1 placeholder image
 image_position: left
 episode_embed_html: >-
   <iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/vkwq17/?pub=sh39v" frameborder="0" allowfullscreen></iframe>
 seo:
-  title: David Sharp attends Largest Veterans Parade in KY
-  description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+  title: David Sharp, Michael Flynn, Mike Lindell give speeches
+  description: David Sharp for Congress gives a compelling speech.
   extra:
     - name: og:type
       value: article
@@ -52,3 +52,7 @@ Alongside guests and speakers like General Michael Flynn, Ann Vandersteel, Artur
 
 
 ![David with Brandon](/images/.jpg)
+
+---
+
+# [See Last Post -->](/posts/homeless-vets)

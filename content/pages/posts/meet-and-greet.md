@@ -57,7 +57,6 @@ layout: post
 
 [To submit a question to David to be featured on his Facebook Live - Click Here](http://m.me/sharp4ky)
 
-## Have questions?
-[Click here to reach the campaign directly.](/contact)
+---
 
-![Let's Go Brandon](/images/letsgobrandon.jpg)
+# [See Last Post -->](/posts/veterans-parade)
