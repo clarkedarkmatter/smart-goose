@@ -28,6 +28,7 @@ seo:
     - name: og:image
       value: images/blog/congress-out.jpg
       keyName: property
+      relativeUrl: true
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
