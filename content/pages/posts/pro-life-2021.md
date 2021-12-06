@@ -7,7 +7,7 @@ categories:
   - content/data/categories/campaign.yaml
 thumb_image: https://sharp4congress.b-cdn.net/images/blog/defund-pp.jpg
 thumb_image_alt: Pro Life Prez
-image: https://sharp4congress.b-cdn.net/images/blog/pro-life-prez.jpeg
+image: https://sharp4congress.b-cdn.net/images/blog/defund-pp.jpg
 image_alt: Sanctity
 image_position: right
 episode_embed_html: >-
@@ -48,7 +48,7 @@ layout: post
 ---
 ---
 
-![hands](https://sharp4congress.b-cdn.net/images/blog/defund-pp.jpg)
+![hands](https://sharp4congress.b-cdn.net/images/blog/pro-life-prez.jpeg)
 
 > David Sharp is THE most bullish representative on Pro-Life arguments coming from Kentucky in 2022 - by far.
 
