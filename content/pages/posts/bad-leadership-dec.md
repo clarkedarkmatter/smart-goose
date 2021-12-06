@@ -2,7 +2,7 @@
 title: Does everybody hate Kamala? Biden, Democrats Struggle to Float as David Sharp Takes Aim at Congress
 subtitle: >-
   Really, why does everybody hate Kamala?
-date: 2021-12-06
+date: 2021-12-04
 categories:
   - content/data/categories/campaign.yaml
 thumb_image: images/blog/kamala-joe.jpg
