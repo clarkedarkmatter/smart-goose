@@ -1,20 +1,20 @@
 ---
 title: In the Wake of Roe vs. Wade, Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
 subtitle: >-
-  Why it still matters. From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
+  Why it still matters. From Mississippi to Texas to Kentucky, leaders like Trump, Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
 date: 2021-12-06
 categories:
   - content/data/categories/campaign.yaml
 thumb_image: https://sharp4congress.b-cdn.net/images/blog/pro-life-prez.jpeg
 thumb_image_alt: Pro Life Prez
-image: https://sharp4congress.b-cdn.net/images/blog/sanc.jpeg
+image: https://sharp4congress.b-cdn.net/images/blog/pro-life-prez.jpeg
 image_alt: Sanctity
 image_position: right
 episode_embed_html: >-
 
 seo:
   title: In the Wake of Roe vs. Wade, Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
-  description: Why it still matters. From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
+  description: Why it still matters. From Mississippi to Texas to Kentucky, leaders like Trump, Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
   extra:
     - name: og:type
       value: article
@@ -23,7 +23,7 @@ seo:
       value: In the Wake of Roe vs. Wade, Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
       keyName: property
     - name: og:description
-      value: Why it still matters. From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
+      value: Why it still matters. From Mississippi to Texas to Kentucky, leaders like Trump, Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
       keyName: property
     - name: og:image
       value: https://sharp4congress.b-cdn.net/images/blog/pro-life-prez.jpeg
@@ -40,7 +40,7 @@ seo:
     - name: twitter:title
       value: In the Wake of Roe vs. Wade, Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
     - name: twitter:description
-      value: Why it still matters. From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
+      value: Why it still matters. From Mississippi to Texas to Kentucky, leaders like Trump, Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
     - name: twitter:image
       value: https://sharp4congress.b-cdn.net/images/blog/pro-life-prez.jpeg
       relativeUrl: true
@@ -58,7 +58,7 @@ Imagine a nation that believes and centers itself on the fact that life holds in
 
 [If you Support David's Pro-Life Mission - Click Here](/support)
 
-![pro-life](https://sharp4congress.b-cdn.net/images/blog/pro-life-prez.jpeg)
+![pro-life](https://sharp4congress.b-cdn.net/images/blog/sanc.jpeg)
 
 > Some politicians say the right thing, but do they BELIEVE it, and do they actively fight for it?
 
