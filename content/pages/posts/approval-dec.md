@@ -26,7 +26,10 @@ seo:
       value: Elect David Sharp, the strongest Conservative in the 2022 First District race.
       keyName: property
     - name: og:image
-      value: images/blog/congress-out.jpg
+      value: https://ahrefs.com/blog/wp-content/uploads/2019/12/fb-how-to-become-an-seo-expert.png
+      keyName: property
+    - name: og:url
+      value: https://davidsharpforcongress.org
       keyName: property
       relativeUrl: true
     - name: twitter:card
