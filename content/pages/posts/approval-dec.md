@@ -7,7 +7,7 @@ categories:
   - content/data/categories/campaign.yaml
 thumb_image: images/blog/congress-out.jpg
 thumb_image_alt: Sharp at We The People
-image: images/blog/congress-out.jpg
+image: https://sharp4congress.b-cdn.net/images/blog/congress-out.jpg
 image_alt: Congress Out Fishing
 image_position: right
 episode_embed_html: >-
@@ -26,7 +26,10 @@ seo:
       value: Elect David Sharp, the strongest Conservative in the 2022 First District race.
       keyName: property
     - name: og:image
-      value: https://ahrefs.com/blog/wp-content/uploads/2019/12/fb-how-to-become-an-seo-expert.png
+      value: https://sharp4congress.b-cdn.net/images/blog/congress-out.jpg
+      keyName: property
+    - name: og:image:secure_url
+      value: https://sharp4congress.b-cdn.net/images/blog/congress-out.jpg
       keyName: property
     - name: og:url
       value: https://davidsharpforcongress.org

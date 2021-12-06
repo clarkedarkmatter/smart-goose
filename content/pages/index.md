@@ -10,7 +10,7 @@ sections:
       - label: See how you can support Team Sharp >>>
         url: /support
         style: primary
-    image: /images/Untitled design (49).png
+    image: https://sharp4congress.b-cdn.net/images/hero.png
     image_alt: David Sharp
     media_position: left
     media_width: fifty
