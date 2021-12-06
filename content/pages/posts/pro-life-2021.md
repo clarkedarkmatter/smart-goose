@@ -13,17 +13,17 @@ image_position: right
 episode_embed_html: >-
 
 seo:
-  title: David Sharp, The Pro-Life Leader Kentucky Needs in the Fall of Roe vs. Wade, Abortion Whistleblowers
-  description: From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal, immoral abortion procedures in America.
+  title: In the Wake of Roe vs. Wade, Abortion Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
+  description: Why it still matters. From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
   extra:
     - name: og:type
       value: article
       keyName: property
     - name: og:title
-      value: David Sharp, The Pro-Life Leader Kentucky Needs in the Fall of Roe vs. Wade, Abortion Whistleblowers
+      value: In the Wake of Roe vs. Wade, Abortion Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
       keyName: property
     - name: og:description
-      value: From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal, immoral abortion procedures in America.
+      value: Why it still matters. From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
       keyName: property
     - name: og:image
       value: https://sharp4congress.b-cdn.net/images/blog/pro-life-prez.jpeg
@@ -38,9 +38,9 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: David Sharp, The Pro-Life Leader Kentucky Needs in the Fall of Roe vs. Wade, Abortion Whistleblowers
+      value: In the Wake of Roe vs. Wade, Abortion Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
     - name: twitter:description
-      value: From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal, immoral abortion procedures in America.
+      value: Why it still matters. From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
     - name: twitter:image
       value: https://sharp4congress.b-cdn.net/images/blog/pro-life-prez.jpeg
       relativeUrl: true
