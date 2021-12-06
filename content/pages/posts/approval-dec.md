@@ -42,7 +42,7 @@ seo:
     - name: twitter:description
       value: David Sharp is the strongest Conservative in the 2022 First District race.
     - name: twitter:image
-      value: images/blog/congress-out.jpg
+      value: https://sharp4congress.b-cdn.net/images/blog/congress-out.jpg
       relativeUrl: true
 layout: post
 ---
@@ -53,12 +53,12 @@ layout: post
 If you have a ***20% approval rating***
 at work, should ***you*** get to keep your job?
 
-![ratings](/images/blog/congress-approve.png)
+![ratings](https://sharp4congress.b-cdn.net/images/blog/congress-approve.png)
 
 ## Of course not!
 So why do we keep sending RINOs and career politicians to Washington?
 
-![bad](/images/blog/congress-bad.jpg)
+![bad](https://sharp4congress.b-cdn.net/images/blog/congress-bad.jpg)
 
 ### David is joining together with other candidates and groups looking to elect stronger, more Grassroots leaders to Washington.
 
