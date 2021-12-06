@@ -1,5 +1,5 @@
 ---
-title: In the Wake of Roe vs. Wade, Abortion Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
+title: In the Wake of Roe vs. Wade, Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
 subtitle: >-
   Why it still matters. From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
 date: 2021-12-06
@@ -13,14 +13,14 @@ image_position: right
 episode_embed_html: >-
 
 seo:
-  title: In the Wake of Roe vs. Wade, Abortion Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
+  title: In the Wake of Roe vs. Wade, Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
   description: Why it still matters. From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
   extra:
     - name: og:type
       value: article
       keyName: property
     - name: og:title
-      value: In the Wake of Roe vs. Wade, Abortion Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
+      value: In the Wake of Roe vs. Wade, Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
       keyName: property
     - name: og:description
       value: Why it still matters. From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
@@ -38,7 +38,7 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: In the Wake of Roe vs. Wade, Abortion Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
+      value: In the Wake of Roe vs. Wade, Whistleblowers, David Sharp is the Pro-Life Champion for Kentucky
     - name: twitter:description
       value: Why it still matters. From Mississippi to Texas to Kentucky, leaders like Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
     - name: twitter:image
