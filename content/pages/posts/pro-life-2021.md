@@ -5,7 +5,7 @@ subtitle: >-
 date: 2021-12-06
 categories:
   - content/data/categories/campaign.yaml
-thumb_image: https://sharp4congress.b-cdn.net/images/blog/pro-life-prez.jpeg
+thumb_image: https://sharp4congress.b-cdn.net/images/blog/defund-pp.jpg
 thumb_image_alt: Pro Life Prez
 image: https://sharp4congress.b-cdn.net/images/blog/pro-life-prez.jpeg
 image_alt: Sanctity
