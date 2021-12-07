@@ -165,6 +165,9 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
+    - name: 'og:url'
+      value: www.davidsharpforcongress.org
+      keyName: property
     - name: 'og:title'
       value: David Sharp for Congress
       keyName: property
