@@ -5,9 +5,9 @@ subtitle: >-
 date: 2021-10-20
 categories:
   - content/data/categories/campaign.yaml
-thumb_image: images/david-and-mike.jpg
+thumb_image: https://sharp4congress.b-cdn.net/images/david-and-mike.jpg
 thumb_image_alt: Sharp at We The People
-image: images/david-and-mike.jpg
+image: https://sharp4congress.b-cdn.net/images/david-and-mike.jpg
 image_alt: Podcast 1 placeholder image
 image_position: left
 episode_embed_html: >-
@@ -26,7 +26,7 @@ seo:
       value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
       keyName: property
     - name: og:image
-      value: images/post-1.jpg
+      value: https://sharp4congress.b-cdn.net/images/david-and-mike.jpg
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -36,7 +36,7 @@ seo:
     - name: twitter:description
       value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
     - name: twitter:image
-      value: images/post-1.jpg
+      value: https://sharp4congress.b-cdn.net/images/david-and-mike.jpg
       relativeUrl: true
 layout: post
 ---
@@ -50,8 +50,6 @@ Alongside guests and speakers like General Michael Flynn, Ann Vandersteel, Artur
 
 [If you Support The Campaign - Click Here](/support)
 
-
-![David with Brandon](/images/.jpg)
 
 ---
 
