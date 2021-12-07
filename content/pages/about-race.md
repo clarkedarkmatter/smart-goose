@@ -14,7 +14,7 @@ seo:
       value: This is the About Race page
       keyName: property
     - name: og:image
-      value: https://sharp4congress.b-cdn.net/images/about.png
+      value: https://sharp4congress.b-cdn.net/images/blog/first-district.png
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -24,7 +24,7 @@ seo:
     - name: twitter:description
       value: This is the about page
     - name: twitter:image
-      value: https://sharp4congress.b-cdn.net/images/about.png
+      value: https://sharp4congress.b-cdn.net/images/blog/first-district.png
       relativeUrl: true
 layout: page
 ---
@@ -36,7 +36,7 @@ layout: page
 
 Adair, Allen, Ballard, Caldwell, Calloway, Carlisle, Casey, Christian, Clinton, Crittenden, Cumberland, Fulton, Graves, Henderson, Hickman, Hopkins, Livingston, Logan, Lyon, Marshall, Marion, McCracken, McLean, Metcalfe, Monroe, Muhlenberg, Ohio, Russell, Simpson, Taylor, Todd, Trigg, Union, Washington, and Webster.
 
-![First District Kentucky Map](/images/blog/first-district.png)
+![First District Kentucky Map](https://sharp4congress.b-cdn.net/images/blog/first-district.png)
 
 #### Are you in the 1st District?
 ***[Join David's Fight!](/support)***
@@ -47,7 +47,7 @@ Adair, Allen, Ballard, Caldwell, Calloway, Carlisle, Casey, Christian, Clinton, 
 
 <br>
 
-![Kentucky Official Election Site](/images/blog/ky-vote-site.png)
+![Kentucky Official Election Site](https://sharp4congress.b-cdn.net/images/blog/ky-vote-site.png)
 
 <a href="https://elect.ky.gov/Pages/default.aspx" target="_blank">Click here to visit Kentucky's official site and begin the process.</a>
 
