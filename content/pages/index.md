@@ -18,7 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: /images/463962.jpg
+    background_image: https://sharp4congress.b-cdn.net/images/463962.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 20
@@ -39,7 +39,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: none
-    background_image: images/pattern.svg
+    background_image: https://sharp4congress.b-cdn.net/images/pattern.svg
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
@@ -73,7 +73,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/group.png
+        image: https://sharp4congress.b-cdn.net/images/group.png
         image_alt: Spotify icon
         image_position: top
         image_align: center
@@ -89,7 +89,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/join.png
+        image: https://sharp4congress.b-cdn.net/images/join.png
         image_alt: Overcast icon
         image_position: top
         image_align: center
@@ -103,7 +103,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: primary
-    background_image: images/sharp-campaign.jpg
+    background_image: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
@@ -112,16 +112,16 @@ sections:
     subtitle: 2021
     align: center
     grid_items:
-      - image: images/highlights-3.png
+      - image: https://sharp4congress.b-cdn.net/images/highlights-3.png
         image_alt: Sticker Mule logo
         image_align: center
-      - image: images/highlight.jpg
+      - image: https://sharp4congress.b-cdn.net/images/highlight.jpg
         image_alt: We The People Reunion Speech
         image_align: center
-      - image: images/highlights-4.png
+      - image: https://sharp4congress.b-cdn.net/images/highlights-4.png
         image_alt: GitHub logo
         image_align: center
-      - image: images/highlights-6.png
+      - image: https://sharp4congress.b-cdn.net/images/highlights-6.png
         image_alt: Gatsby logo
         image_align: center
 
@@ -152,7 +152,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    background_image: images/pattern.svg
+    background_image: https://sharp4congress.b-cdn.net/images/pattern.svg
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
@@ -172,9 +172,8 @@ seo:
       value: The official campaign page for David Sharp for Congress.
       keyName: property
     - name: 'og:image'
-      value: /images/IMG_20211107_132626533_HDR.jpg
+      value: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
       keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
@@ -182,7 +181,6 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Podcaster theme
     - name: 'twitter:image'
-      value: images/hero.png
-      relativeUrl: true
+      value: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
 layout: advanced
 ---
