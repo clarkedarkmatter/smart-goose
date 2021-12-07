@@ -1,9 +1,9 @@
 ---
-title: Episodes, Season 2
+title: Pro-Life
 sections:
   - type: hero_section
-    title: Episodes
-    subtitle: Season 2
+    title: Pro-Life
+    subtitle: Campaign Trail
     align: center
     padding_top: medium
     padding_bottom: small
@@ -13,7 +13,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    category: content/data/categories/season-2.yaml
+    category: content/data/categories/pro-life.yaml
     show_date: true
     show_categories: false
     show_author: false
@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: none
-    background_image: images/pattern.svg
+    background_image: https://sharp4congress.b-cdn.net/images/pattern.svg
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
