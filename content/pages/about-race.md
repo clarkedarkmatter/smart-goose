@@ -16,7 +16,6 @@ seo:
     - name: og:image
       value: https://sharp4congress.b-cdn.net/images/blog/first-district.png
       keyName: property
-      relativeUrl: true
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
@@ -25,7 +24,6 @@ seo:
       value: This is the about page
     - name: twitter:image
       value: https://sharp4congress.b-cdn.net/images/blog/first-district.png
-      relativeUrl: true
 layout: page
 ---
 ---
