@@ -5,9 +5,9 @@ subtitle: >-
 date: 2021-12-04
 categories:
   - content/data/categories/campaign.yaml
-thumb_image: images/blog/kamala-joe.jpg
+thumb_image: https://sharp4congress.b-cdn.net/images/blog/kamala-joe.jpg
 thumb_image_alt: Kamala and Sleepy Joe
-image: images/blog/kamala-bad.jpg
+image: https://sharp4congress.b-cdn.net/images/blog/kamala-bad.jpg
 image_alt: Kamala Bad
 image_position: right
 episode_embed_html: >-
