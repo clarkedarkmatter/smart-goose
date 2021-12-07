@@ -4,7 +4,7 @@ subtitle: >-
   Why it still matters. From Mississippi to Texas to Kentucky, leaders like Trump, Texas Gov. Greg Abbott and David use their platform to protect the unborn and crack down on illegal abortions.
 date: 2021-12-06
 categories:
-  - content/data/categories/campaign.yaml
+  - content/data/categories/pro-life.yaml
 thumb_image: https://sharp4congress.b-cdn.net/images/blog/defund-pp.jpg
 thumb_image_alt: Pro Life Prez
 image: https://sharp4congress.b-cdn.net/images/blog/defund-pp.jpg

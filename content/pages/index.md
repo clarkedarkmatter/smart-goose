@@ -31,7 +31,7 @@ sections:
     recent_count: 6
     show_image: true
     show_date: true
-    show_categories: false
+    show_categories: true
     show_author: false
     show_excerpt: false
     align: center
@@ -57,7 +57,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/donate.png
+        image: https://sharp4congress.b-cdn.net/images/donate.png
         image_alt: Donate
         image_position: top
         image_align: center
