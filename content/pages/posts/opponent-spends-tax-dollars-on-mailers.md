@@ -28,11 +28,8 @@ seo:
     - name: og:image
       value: /images/blog/comer-caught.png
       keyName: property
-    - name: og:image:secure_url
-      value: /images/blog/comer-caught.png
-      keyName: property
     - name: og:url
-      value: https://davidsharpforcongress.org
+      value: https://davidsharpforcongress.org/blog/opponent-spends-tax-dollars-on-mailers
       keyName: property
     - name: twitter:card
       value: summary_large_image
