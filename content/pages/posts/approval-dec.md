@@ -5,7 +5,7 @@ subtitle: >-
 date: 2021-12-05
 categories:
   - content/data/categories/campaign.yaml
-thumb_image: images/blog/congress-out.jpg
+thumb_image: https://sharp4congress.b-cdn.net/images/blog/congress-out.jpg
 thumb_image_alt: Sharp at We The People
 image: https://sharp4congress.b-cdn.net/images/blog/congress-out.jpg
 image_alt: Congress Out Fishing
