@@ -29,7 +29,7 @@ seo:
       value: https://sharp4congress.b-cdn.net/images/blog/comer-caught.png
       keyName: property
     - name: og:url
-      value: https://davidsharpforcongress.org/blog/opponent-spends-tax-dollars-on-mailers
+      value: https://davidsharpforcongress.org/posts/opponent-spends-tax-dollars-on-mailers
       keyName: property
     - name: twitter:card
       value: summary_large_image
