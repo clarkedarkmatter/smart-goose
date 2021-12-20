@@ -14,9 +14,8 @@ seo:
       value: This is the About page of the official campaign website
       keyName: property
     - name: og:image
-      value: images/letsgobrandon.jpg
+      value: https://sharp4congress.b-cdn.net/images/bw-3.jpg
       keyName: property
-      relativeUrl: true
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
@@ -24,8 +23,7 @@ seo:
     - name: twitter:description
       value: This is the about page
     - name: twitter:image
-      value: images/letsgobrandon.jpg
-      relativeUrl: true
+      value: https://sharp4congress.b-cdn.net/images/bw-3.jpg
 layout: page
 ---
 ---

@@ -16,7 +16,6 @@ seo:
     - name: og:image
       value: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
       keyName: property
-      relativeUrl: true
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
@@ -25,7 +24,6 @@ seo:
       value: The platform page for David Sharp for Congress
     - name: twitter:image
       value: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
-      relativeUrl: true
 layout: page
 ---
 ---
