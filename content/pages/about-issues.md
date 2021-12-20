@@ -38,7 +38,7 @@ The Constitution gives us the right to carry and bear arms.<br>
 Any attempt to take away that right is an assault on our liberties and our Constitution.
 <br>
 
-![David 2A winner](https://sharp4congress.b-cdn.net/images/david2a)
+![David 2A winner](https://sharp4congress.b-cdn.net/images/winner-2a.jpg)
 
 
 ### Secure the Border
