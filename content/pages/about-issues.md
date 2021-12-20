@@ -1,8 +1,8 @@
 ---
 title: David Sharp's Platform
 seo:
-  title: About David Sharp for Congress
-  description: This is the about page
+  title: Platform - David Sharp for Congress
+  description: The platform page for David Sharp for Congress
   extra:
     - name: og:type
       value: website
@@ -14,17 +14,17 @@ seo:
       value: This is the about page
       keyName: property
     - name: og:image
-      value: images/about.png
+      value: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
       keyName: property
       relativeUrl: true
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: About
+      value: Platform -David Sharp for Congress
     - name: twitter:description
-      value: This is the about page
+      value: The platform page for David Sharp for Congress
     - name: twitter:image
-      value: images/about.png
+      value: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
       relativeUrl: true
 layout: page
 ---
@@ -40,7 +40,7 @@ The Constitution gives us the right to carry and bear arms.<br>
 Any attempt to take away that right is an assault on our liberties and our Constitution.
 <br>
 
-![David 2A winner](/images/david2a)
+![David 2A winner](https://sharp4congress.b-cdn.net/images/david2a)
 
 
 ### Secure the Border
@@ -51,7 +51,7 @@ It is called Illegal Immigration for a reason.
 David 100% supports term limits in Congress and fight to bring a term limit bill to the floor.
 
 
-![Term Limits](/images/highlights-6.png)
+![Term Limits](https://sharp4congress.b-cdn.net/images/highlights-6.png)
 
 ---
 Support these things too?
