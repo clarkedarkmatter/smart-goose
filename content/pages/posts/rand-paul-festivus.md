@@ -45,7 +45,9 @@ layout: post
 Your browser does not support the video tag.
 </video>
 
-##### My opponent Jamie Comer Jr. has been since taking huge donations from PACs while using taxpayer dollars to send out 'campaign mailers.' [See Last Post on Mailers](/posts/opponent-spends-tax-dollars-on-mailers)
+##### My opponent Jamie Comer Jr. has been since taking huge donations from PACs while using taxpayer dollars to send out 'campaign mailers.'
+
+[See Last Post on Mailers](/posts/opponent-spends-tax-dollars-on-mailers)
 
 ---
 
@@ -59,7 +61,10 @@ Your browser does not support the video tag.
 
 ### Vote more RINOs out than ever before. ***Vote David Sharp for Congress.***
 
-[Fight Back Against Wasteful Spending - Click Here](/support)
+### [Fight Back Against Wasteful Spending - Click Here](/support)
+
+
+Read the full Festivus Report by clicking [here.](https://www.paul.senate.gov/sites/default/files/page-attachments/Festivus%20Report%202021_0.pdf)
 
 ---
 
