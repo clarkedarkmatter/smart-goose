@@ -40,10 +40,7 @@ layout: post
 
 ---
 
-<video width="100%" height="auto" autoplay loop>
- <source src="https://sharp4congress.b-cdn.net/images/why.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Rand Paul Festivus 2021](https://sharp4congress.b-cdn.net/images/blog/festivus.png)
 
 ##### My opponent Jamie Comer Jr. has been since taking huge donations from PACs while using taxpayer dollars to send out 'campaign mailers.'
 
@@ -57,7 +54,10 @@ Your browser does not support the video tag.
 
 #### Americans are FED UP with the status quo and the 2022 Republican Primary elections are our chance to prove it.
 
-
+<video width="100%" height="auto" autoplay loop>
+ <source src="https://sharp4congress.b-cdn.net/images/why.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### Vote more RINOs out than ever before. ***Vote David Sharp for Congress.***
 
