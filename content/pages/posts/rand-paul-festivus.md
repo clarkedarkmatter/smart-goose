@@ -45,7 +45,9 @@ layout: post
 Your browser does not support the video tag.
 </video>
 
-##### My opponent Jamie Comer Jr. has been since taking huge donations from PACs while using taxpayer dollars to send out 'campaign mailers.' [See Last Post on Mailers](/posts/opponent-spends-tax-dollars-on-mailers)
+##### My opponent Jamie Comer Jr. has been since taking huge donations from PACs while using taxpayer dollars to send out 'campaign mailers.'
+
+[See Last Post on Mailers](/posts/opponent-spends-tax-dollars-on-mailers)
 
 ---
 
