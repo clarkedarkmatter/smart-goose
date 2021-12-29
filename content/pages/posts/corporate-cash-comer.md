@@ -47,7 +47,12 @@ layout: post
 
 # David Sharp vows not to take SuperPAC or Corporate Cash.
 
-<a href="https://secure.winred.com/david-sharp-campaign-fund/win"><button>Chip in to help David reach his goal of 10K individual contributions by Jan. 15</button></a>
+### Help David reach his goal of $10K in individual contributions by Jan. 15.
+AND he will ___match___ every donation for the next 10 days!
+
+<a href="https://secure.winred.com/david-sharp-campaign-fund/win"><button>Chip In $5</button></a>
+
+Or click [here.](https://secure.winred.com/david-sharp-campaign-fund/win)
 
 ---
 
@@ -60,7 +65,10 @@ Read his full FEC Report by clicking [here.](https://www.fec.gov/data/elections/
 
 ![Corporate Donors](https://sharp4congress.b-cdn.net/images/blog/donor.webp)
 
-<a href="https://secure.winred.com/david-sharp-campaign-fund/win"><button>Chip in to help David reach his goal of 10K individual contributions by Jan. 15</button></a>
+### Help David reach his goal of $10K in individual contributions by Jan. 15.
+AND he will ___match___ every donation for the next 10 days!
+
+<a href="https://secure.winred.com/david-sharp-campaign-fund/win"><button>Chip In $5</button></a>
 
 ---
 
