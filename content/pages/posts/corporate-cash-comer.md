@@ -35,7 +35,7 @@ layout: post
 ---
 ---
 
-### Look at the latest reciepts from my opponent.
+### Look at the latest reciepts from our opponent.
 # Not one contribution is actually from Kentucky.
 
 
