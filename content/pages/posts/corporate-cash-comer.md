@@ -1,32 +1,32 @@
 ---
-title: My Opponent Reports Over 200k In Corporate Cash, D.C. PACs - Why It Matters To You
+title: My Opponent Just Took Over 200k In Corporate Cash - Why It Matters To You
 subtitle: >-
   Jamie Comer Jr. isn't a 'We The People' Republican. David Sharp won't accept Corporate Cash.
 date: 2021-12-23
 categories:
   - content/data/categories/campaign.yaml
-thumb_image: /images/blog/corp-cash.png
+thumb_image: https://sharp4congress.b-cdn.net/images/blog/corp-cash.png
 thumb_image_alt: Comer Corruption
-image: /images/blog/corp-cash.png
+image: https://sharp4congress.b-cdn.net/images/blog/corp-cash.png
 image_alt: Comer Corruption
 image_position: left
 episode_embed_html: >-
 
 seo:
-  title: My Opponent Takes Over 200k In Corporate Cash - Why It Matters To You
+  title: My Opponent Just Took Over 200k In Corporate Cash - Why It Matters To You
   description: Jamie Comer Jr. isn't a 'We The People' Republican.
   extra:
     - name: og:type
       value: article
       keyName: property
     - name: og:title
-      value: My Opponent Takes Over 200k In Corporate Cash - Why It Matters To You
+      value: My Opponent Just Took Over 200k In Corporate Cash - Why It Matters To You
       keyName: property
     - name: og:description
       value: Jamie Comer Jr. isn't a 'We The People' Republican.
       keyName: property
     - name: og:image
-      value: /images/blog/corp-cash.png
+      value: https://sharp4congress.b-cdn.net/images/blog/corp-cash.png
       keyName: property
     - name: og:url
       value: https://davidsharpforcongress.org/posts/corporate-cash-comer
@@ -39,7 +39,7 @@ layout: post
 # Not one contribution is actually from Kentucky.
 
 
-![Comer Receipts from FEC](/images/blog/receipts.png)
+![Comer Receipts from FEC](https://sharp4congress.b-cdn.net/images/blog/receipts.png)
 
 ### **Why does this matter?**
 ---
@@ -58,7 +58,7 @@ Read his full FEC Report by clicking [here.](https://www.fec.gov/data/elections/
 
 [See Post on His Misuse of Taxdollars on Mailers](/posts/opponent-spends-tax-dollars-on-mailers)
 
-![Corporate Donors](/images/blog/donor.webp)
+![Corporate Donors](https://sharp4congress.b-cdn.net/images/blog/donor.webp)
 
 <a href="https://secure.winred.com/david-sharp-campaign-fund/win"><button>Chip in to help David reach his goal of 10K individual contributions by Jan. 15</button></a>
 
