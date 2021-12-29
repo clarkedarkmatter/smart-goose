@@ -25,7 +25,7 @@ seo:
     - name: og:description
       value: Sen. Rand Paul's holiday tradition - a yearly reminder that our Congress isn't working hard enough for us. And we think he's right.
       keyName: property
-    - name: og:image
+    - name: og:imagec
       value: https://sharp4congress.b-cdn.net/images/why.png
       keyName: property
     - name: og:url
