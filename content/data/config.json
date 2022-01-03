@@ -121,8 +121,8 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Due to the death of David's father, we will be suspending campaign activities for 7 days. Please keep him in your prayers.\n",
-        "anncmnt_align": "left",
+        "anncmnt_content": "Interested in meeting David? Click [here](/join) to host an event at your organization!",
+        "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-episode"
