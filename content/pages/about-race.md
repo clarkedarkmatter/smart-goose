@@ -29,14 +29,8 @@ layout: page
 ---
 ## The Primary is in May of 2022.
 
-#### David Sharp is a Republican running to represent Kentucky's 1st Congressional District.
-##### Kentucky counties within the 1st Congressional District:
+#### David Sharp is a Republican running to represent Hopkins County.
 
-Adair, Allen, Ballard, Caldwell, Calloway, Carlisle, Casey, Christian, Clinton, Crittenden, Cumberland, Fulton, Graves, Henderson, Hickman, Hopkins, Livingston, Logan, Lyon, Marshall, Marion, McCracken, McLean, Metcalfe, Monroe, Muhlenberg, Ohio, Russell, Simpson, Taylor, Todd, Trigg, Union, Washington, and Webster.
-
-![First District Kentucky Map](https://sharp4congress.b-cdn.net/images/blog/first-district.png)
-
-#### Are you in the 1st District?
 ***[Join David's Fight!](/support)***
 
 ---
