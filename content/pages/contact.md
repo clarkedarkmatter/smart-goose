@@ -28,8 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-<hr>
-
+<hr
 ## Follow David Sharp on Social Media
 
 - Facebook - [Visit Us On Facebook](https://www.facebook.com/sharp4ky)

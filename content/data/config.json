@@ -1,5 +1,5 @@
 {
-    "title": "David Sharp for Congress",
+    "title": "David Sharp for Kentucky State Representative",
     "path_prefix": "/",
     "layout_type": "boxed",
     "style": "bold",
@@ -7,8 +7,8 @@
     "mode": "dark",
     "base_font": "sans-serif",
     "header": {
-        "title": "David Sharp for Congress",
-        "logo": "images/logo2.svg",
+        "title": "David Sharp for KY State Representative",
+        "logo": "images/1.png",
         "logo_alt": "Sharp for KY Logo",
         "has_primary_nav": true,
         "primary_nav_links": [
@@ -48,7 +48,7 @@
         ]
     },
     "footer": {
-        "logo": "images/logo2.svg",
+        "logo": "images/1.png",
         "logo_alt": "Sharp For KY",
         "has_primary_nav": true,
         "primary_nav_links": [
@@ -90,17 +90,8 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "Facebook",
-                "url": "https://www.facebook.com/",
+                "url": "https://www.facebook.com/sharp4ky",
                 "style": "link",
                 "has_icon": true,
                 "icon": "facebook",
@@ -109,7 +100,7 @@
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/davidsharp4kyrep/",
                 "style": "link",
                 "has_icon": true,
                 "icon": "instagram",

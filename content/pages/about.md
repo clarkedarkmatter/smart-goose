@@ -38,10 +38,7 @@ layout: page
 ### The Race and Election
 - [Read about the upcoming 2022 Election](/about-race)
 ---
-### The Opponent
-- [Read about David Sharp's primary challenger](/about-challenger)
 
----
 ---
 
 ##### Interested in joining the team?

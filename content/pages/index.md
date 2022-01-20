@@ -2,10 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    title: Send Sharp to Congress in 2022
-    subtitle: Fight back against the Washington establishment.
+    title: Send Sharp to Frankfort
+    subtitle: David Sharp Fights for Kentucky
     content: |
-      We need your support for the Primary in May 2022.
+      We need your support for the Primary in May.
     actions:
       - label: See how you can support Team Sharp >>>
         url: /support
