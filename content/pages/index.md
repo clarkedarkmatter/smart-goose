@@ -157,33 +157,24 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
 seo:
-  title: David Sharp for Congress
+  title: David Sharp for Kentucky State Representative
   description: >-
-    Republican running to represent the people of Kentucky's 1st Congressional
-    District.
+    Official Page of David Sharp, Republican Running to Represent Hopkins County in Kentucky's House of Representatives.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:url'
-      value: www.davidsharpforcongress.org
+      value: www.sharp4kyrep.org
       keyName: property
     - name: 'og:title'
-      value: David Sharp for Congress
+      value: David Sharp for Kentucky State Representative
       keyName: property
     - name: 'og:description'
-      value: The official campaign page for David Sharp for Congress.
+      value: The official campaign page for Sharp for Kentucky State Representative.
       keyName: property
     - name: 'og:image'
       value: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
       keyName: property
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Stackbit Podcaster Theme
-    - name: 'twitter:description'
-      value: The preview of the Podcaster theme
-    - name: 'twitter:image'
-      value: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
 layout: advanced
 ---
