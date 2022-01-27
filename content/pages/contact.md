@@ -28,7 +28,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-<hr
+
+![David Walks](/images/david-walks.jpg)
+
 ## Follow David Sharp on Social Media
 
 - Facebook - [Visit Us On Facebook](https://www.facebook.com/sharp4ky)
