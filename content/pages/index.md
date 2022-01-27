@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Send Sharp to Frankfort
-    subtitle: David Sharp Fights for Kentucky
+    subtitle: David Sharp Fights for Hopkins County
     content: |
       We need your support for the Primary in May.
     actions:
