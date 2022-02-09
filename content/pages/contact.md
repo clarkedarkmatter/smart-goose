@@ -34,11 +34,10 @@ layout: page
 ## Follow David Sharp on Social Media
 
 - Facebook - [Visit Us On Facebook](https://www.facebook.com/sharp4ky)
-- Instagram - [Visit our Instagram Page](https://www.instagram.com/davidsharp4congress/)
+- Instagram - [Visit our Instagram Page](https://www.instagram.com/davidsharp4kyrep/)
 - Gab - [We're On Gab](https://gab.com/davidsharpforcongress)
 - Rumble - [Visit our Rumble Page](https://rumble.com/vniw5x-rino-hunting-david-sharp-speaks-at-we-the-people-reunion.html)
-- Twitter - [Visit Us On Twitter ](https://twitter.com/SharpCongress)]
-<hr>
+- Twitter - [Visit Us On Twitter ](https://twitter.com/SharpCongress)
 
 # Interested in speaking with David?
 
