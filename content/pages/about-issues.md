@@ -8,26 +8,17 @@ seo:
       value: website
       keyName: property
     - name: og:title
-      value: About
+      value: David Sharp's Platform
       keyName: property
     - name: og:description
-      value: This is the about page
+      value: Read about what David Sharp plans to do for the issues important to you.
       keyName: property
     - name: og:image
       value: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
       keyName: property
-    - name: twitter:card
-      value: summary_large_image
-    - name: twitter:title
-      value: Platform -David Sharp for Congress
-    - name: twitter:description
-      value: The platform page for David Sharp for Congress
-    - name: twitter:image
-      value: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
 layout: page
 ---
 ---
-## David is the most conservative Republican to run for this office in decades.
 
 ### Pro Life
 David believes life begins at conception.<br>

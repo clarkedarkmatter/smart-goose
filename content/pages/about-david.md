@@ -31,14 +31,8 @@ layout: page
 
 # Kentucky's Candidate
 
-### David Sharp is a father, a husband, a veteran and a Christian.
+### David Sharp is a husband, a veteran, a retired Finance Director, a Christian and a father of two.
 ![David Family](/images/david-family-2.jpg)
-
-In the wake of all that's been going on in our nation, David Sharp has remained a steadfast reminder to his family, friends and community that a better future lies ahead.
-<br>
-
-He's been married for 20 years, just sent his 2 young adult kids off to great schools to start their life, has built a career from scratch and works hard every day to provide a better life for his family.
-<br>
 
 ##### Think David will help our country get back on the right path?
 [Click Here to Support His Run for Congress](/support)
