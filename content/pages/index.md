@@ -112,7 +112,7 @@ sections:
     subtitle: 2021
     align: center
     grid_items:
-      - image: https://sharp4congress.b-cdn.net/images/yard.png
+      - image: https://sharp4congress.b-cdn.net/images/yard.jpg
         image_alt: Yard Signs for Sharp
         image_align: center
       - image: https://sharp4congress.b-cdn.net/images/highlights-3.png
@@ -124,10 +124,10 @@ sections:
       - image: https://sharp4congress.b-cdn.net/images/highlights-4.png
         image_alt: Gun Raffle
         image_align: center
-      - image: https://sharp4congress.b-cdn.net/images/cert.png
+      - image: https://sharp4congress.b-cdn.net/images/cert.jpg
         image_alt: Certified by Term Limits Kentucky
         image_align: center
-      - image: https://sharp4congress.b-cdn.net/images/thanks.png
+      - image: https://sharp4congress.b-cdn.net/images/thanks.jpg
         image_alt: Certified by Term Limits Kentucky
         image_align: center
 
