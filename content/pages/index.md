@@ -112,17 +112,23 @@ sections:
     subtitle: 2021
     align: center
     grid_items:
+      - image: https://sharp4congress.b-cdn.net/images/yard.png
+        image_alt: Yard Signs for Sharp
+        image_align: center
       - image: https://sharp4congress.b-cdn.net/images/highlights-3.png
-        image_alt: Sticker Mule logo
+        image_alt: Media Appearances
         image_align: center
       - image: https://sharp4congress.b-cdn.net/images/highlight.jpg
         image_alt: We The People Reunion Speech
         image_align: center
       - image: https://sharp4congress.b-cdn.net/images/highlights-4.png
-        image_alt: GitHub logo
+        image_alt: Gun Raffle
         image_align: center
-      - image: https://sharp4congress.b-cdn.net/images/highlights-6.png
-        image_alt: Gatsby logo
+      - image: https://sharp4congress.b-cdn.net/images/cert.png
+        image_alt: Certified by Term Limits Kentucky
+        image_align: center
+      - image: https://sharp4congress.b-cdn.net/images/thanks.png
+        image_alt: Certified by Term Limits Kentucky
         image_align: center
 
     grid_cols: four
