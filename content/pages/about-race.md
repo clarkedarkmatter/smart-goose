@@ -31,6 +31,8 @@ layout: page
 
 #### David Sharp is a Republican running to represent Hopkins County.
 
+He will fight for Hopkins County issues in Frankfort.
+
 ***[Join David's Fight!](/support)***
 
 ---
@@ -45,4 +47,4 @@ layout: page
 
 
 
-### [--> Read about David Sharp's Opponent](/about-challenger)
+### [--> Read about David Sharp's Platform](/about-issues)
