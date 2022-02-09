@@ -39,7 +39,7 @@ It is called Illegal Immigration for a reason.
 ### Drain The Swamp
 David 100% supports term limits in Congress and fight to bring a term limit bill to the floor.
 
-![Term Limits](https://sharp4congress.b-cdn.net/images/thanks.png)
+![Term Limits](https://sharp4congress.b-cdn.net/images/thanks.jpg)
 
 ---
 Support these things too?
