@@ -115,19 +115,13 @@ sections:
       - image: https://sharp4congress.b-cdn.net/images/yard.jpg
         image_alt: Yard Signs for Sharp
         image_align: center
-      - image: https://sharp4congress.b-cdn.net/images/highlights-3.png
-        image_alt: Media Appearances
-        image_align: center
       - image: https://sharp4congress.b-cdn.net/images/highlight.jpg
         image_alt: We The People Reunion Speech
         image_align: center
       - image: https://sharp4congress.b-cdn.net/images/highlights-4.png
         image_alt: Gun Raffle
         image_align: center
-      - image: https://sharp4congress.b-cdn.net/images/cert.jpg
-        image_alt: Certified by Term Limits Kentucky
-        image_align: center
-      - image: https://sharp4congress.b-cdn.net/images/thanks.jpg
+      - image: https://sharp4congress.b-cdn.net/images/thanks.jpgt
         image_alt: Certified by Term Limits Kentucky
         image_align: center
 
