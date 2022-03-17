@@ -13,20 +13,20 @@ image_position: right
 episode_embed_html: >-
 
 seo:
-  title: David Sharp Releases Campaign Radio Spots
-  description: David Sharp's new radio clips will be featured on
+  title: David Sharp Releases Campaign Radio Messaging
+  description: Listen to a sneak peak of David's radio spots.
   extra:
     - name: og:type
       value: article
       keyName: property
     - name: og:title
-      value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: David Sharp Releases Campaign Radio Messages
       keyName: property
     - name: og:description
-      value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+      value: Listen to a sneak peak of David's radio spots.
       keyName: property
     - name: og:image
-      value: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
+      value: https://sharp4congress.b-cdn.net/images/sharp-col.png
       keyName: property
       relativeUrl: true
 layout: post
