@@ -26,7 +26,7 @@ seo:
       value: Listen to a sneak peak of David's radio spots.
       keyName: property
     - name: og:image
-      value: https://sharp4congress.b-cdn.net/images/sharp-col.png
+      value: /images/sharp-col.png
       keyName: property
       relativeUrl: true
 layout: post
