@@ -5,10 +5,10 @@ subtitle: >-
 date: 2022-03-17
 categories:
   - content/data/categories/campaign.yaml
-thumb_image: /images/sharp-col.png
+thumb_image: https://sharp4congress.b-cdn.net/images/sharp-col.png
 thumb_image_alt: Sharp at Veterans Parade
-image: /images/sharp-col.png
-image_alt: Podcast 1 placeholder image
+image: https://sharp4congress.b-cdn.net/images/sharp-col.png
+image_alt: Radio Ads
 image_position: right
 episode_embed_html: >-
 
@@ -26,7 +26,7 @@ seo:
       value: Listen to a sneak peak of David's radio spots.
       keyName: property
     - name: og:image
-      value: /images/sharp-col.png
+      value: https://sharp4congress.b-cdn.net/images/sharp-col.png
       keyName: property
       relativeUrl: true
 layout: post
