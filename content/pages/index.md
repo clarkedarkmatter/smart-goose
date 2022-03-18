@@ -2,42 +2,41 @@
 title: Home
 sections:
   - type: hero_section
-    title: Send Sharp to Frankfort
-    subtitle: David Sharp Fights for Hopkins County
+    title: Vote Sharp for Hopkins County
+    subtitle: David Sharp Needs Your Support To Win The Republican Nomination.
     content: |
-      We need your support for the Primary in May.
     actions:
-      - label: See how you can support Team Sharp >>>
-        url: /support
+      - label: Donate To David's Campaign
+        url: https://secure.winred.com/david-sharp-campaign-fund/win
         style: primary
     image: https://sharp4congress.b-cdn.net/images/hero.png
     image_alt: David Sharp
-    media_position: left
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: large
+    media_position: right
+    media_width: sixty
+    align: right
+    padding_top: small
+    padding_bottom: small
     background_color: primary
     background_image: https://sharp4congress.b-cdn.net/images/463962.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image_opacity: 20
-    has_border: true
+    background_image_opacity: 30
+    has_border: false
   - type: blog_feed_section
     title: On the Campaign Trail
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
-    recent_count: 6
+    recent_count: 3
     show_image: true
     show_date: true
-    show_categories: true
+    show_categories: false
     show_author: false
     show_excerpt: false
     align: center
-    padding_top: medium
+    padding_top: large
     padding_bottom: medium
-    has_border: true
+    has_border: false
     background_color: none
     background_image: https://sharp4congress.b-cdn.net/images/pattern.svg
     background_image_repeat: repeat
@@ -156,6 +155,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
+
 seo:
   title: David Sharp for Kentucky State Representative
   description: >-
