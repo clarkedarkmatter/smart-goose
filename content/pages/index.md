@@ -13,7 +13,7 @@ sections:
     image_alt: David Sharp
     media_position: right
     media_width: sixty
-    align: right
+    align: center
     padding_top: small
     padding_bottom: small
     background_color: primary
