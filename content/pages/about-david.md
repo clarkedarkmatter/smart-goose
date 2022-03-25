@@ -32,11 +32,11 @@ layout: page
 # Kentucky's Candidate
 
 ### David Sharp is a husband, a veteran, a retired Finance Director, a Christian and a father of two.
-![David Family](/images/david-family-2.jpg)
+![David Family](https://sharp4congress.b-cdn.net/images/david-family-2.jpg)
 
 ##### Think David will help our country get back on the right path?
 [Click Here to Support His Run for Congress](/support)
 
-![David Family](/images/david-family.jpg)
+![David Family](https://sharp4congress.b-cdn.net/images/david-family.jpg)
 
 # [--> Read about the 2022 Race](/about-race)
