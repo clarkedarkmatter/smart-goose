@@ -111,10 +111,10 @@ sections:
     subtitle: 2021
     align: center
     grid_items:
-      - image: https://sharp4congress.b-cdn.net/images/yard.jpg
-        image_alt: Yard Signs for Sharp
-        image_align: center
       - image: https://sharp4congress.b-cdn.net/images/highlight.jpg
+        image_alt: We The People Reunion Speech
+        image_align: center
+      - image: /images/endorsed.png
         image_alt: We The People Reunion Speech
         image_align: center
       - image: https://sharp4congress.b-cdn.net/images/highlights-4.png
