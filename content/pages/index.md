@@ -9,7 +9,7 @@ sections:
       - label: Donate To David's Campaign
         url: https://secure.winred.com/david-sharp-campaign-fund/win
         style: primary
-    image: https://sharp4congress.b-cdn.net/images/hero.png
+    image: /images/hero3.png
     image_alt: David Sharp
     media_position: right
     media_width: sixty
@@ -43,7 +43,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - type: grid_section
-    title: Support David Sharp for Congress
+    title: Support David Sharp for State Representative
     grid_items:
       - title: Donate
         title_align: center
