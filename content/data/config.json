@@ -41,7 +41,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Chip in $5 To Win in 2022",
+                "label": "Contribute to Team Sharp",
                 "url": "https://secure.winred.com/david-sharp-campaign-fund/win",
                 "style": "primary"
             }
@@ -118,5 +118,5 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-episode"
     },
-    "domain": "www.davidsharpforcongress.org"
+    "domain": "www.sharp4kyrep.org"
 }

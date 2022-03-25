@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Support Team Sharp
     subtitle: >-
-      Help us win BIG against the Radical Left and RINOs in 2022.
+      Help David Sharp Secure the Republican Nomination in May.
     align: center
     padding_top: small
     padding_bottom: none
