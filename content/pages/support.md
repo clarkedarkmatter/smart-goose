@@ -23,7 +23,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/donate.png
+        image: https://sharp4congress.b-cdn.net/images/donate.png
         image_alt: Give to Team Sharp
         image_position: top
         image_align: center
@@ -39,7 +39,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/group.png
+        image: https://sharp4congress.b-cdn.net/images/group.png
         image_alt: Spotify icon
         image_position: top
         image_align: center
@@ -55,7 +55,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/join.png
+        image: https://sharp4congress.b-cdn.net/images/join.png
         image_alt: follow
         image_position: top
         image_align: center
