@@ -2,12 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: Vote Sharp for Hopkins County
-    subtitle: David Sharp Needs Your Support To Win The Republican Nomination.
+    title: On May 17th, Vote Sharp for Hopkins County
+    subtitle: David Sharp Needs Our Support To Win The Republican Nomination.
     content: |
     actions:
-      - label: Donate To David's Campaign
-        url: https://secure.winred.com/david-sharp-campaign-fund/win
+      - label: Read David's Platform
+        url: /platform
         style: primary
     image: https://sharp4congress.b-cdn.net/images/hero4.png
     image_alt: David Sharp
