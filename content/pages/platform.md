@@ -41,12 +41,12 @@ Any attempt to take away that right is an assault on our liberties and our Const
 ---
 
 #### Support these things too?
-<a href="https://secure.winred.com/david-sharp-campaign-fund/win" target="_blank">Click Here to Co David Sharp's Run for Kentucky's House of Representatives</a>
+<a href="https://secure.winred.com/david-sharp-campaign-fund/win" target="_blank">Click Here to Contribute to David Sharp's Run for Kentucky's House of Representatives</a>
 
 ---
 
 ### Pro-Police
-I blame some of our elected offiAcials and the media for the hatred and rhetoric about the men and women that protect and serve us.
+I blame some of our elected officials and the media for the hatred and rhetoric about the men and women that protect and serve us.
 
 ### Pro-Term Limits
 David 100% supports term limits for elected officials and fight to bring a term limit bill to the floor.
@@ -68,6 +68,6 @@ As households, we must live by a budget, so should our government.
 
 ---
 #### Support these things too?
-<a href="https://secure.winred.com/david-sharp-campaign-fund/win" target="_blank">Click Here to Co David Sharp's Run for Kentucky's House of Representatives</a>
+<a href="/join" target="_blank">Click Here to Contribute to David Sharp's Run for Kentucky's House of Representatives</a>
 
 ### [--> Read about David Sharp, the candidate](/about)
