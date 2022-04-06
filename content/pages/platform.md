@@ -68,7 +68,6 @@ We need MORE police officers, not less.<br>Look at Minneapolis, Portland, Seattl
 
 ---
 Support these things too?
-***[Help David Win!](/support)***
----
+<a href="https://secure.winred.com/david-sharp-campaign-fund/win" target="_blank">Click Here to Co David Sharp's Run for Kentucky's House of Representatives</a>---
 
-### [--> Read about David Sharp the candidate](/about-david)
+### [--> Read about David Sharp the candidate](/about)

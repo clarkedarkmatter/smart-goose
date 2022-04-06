@@ -1,5 +1,5 @@
 ---
-title: About David's Campaign
+title: About David Sharp
 seo:
   title: About David Sharp for Congress
   description: This is the about page
@@ -8,14 +8,15 @@ seo:
       value: website
       keyName: property
     - name: og:title
-      value: About David Sharp's Campaign
+      value: About
       keyName: property
     - name: og:description
-      value: This is the About page of the official campaign website
+      value: This is the about page
       keyName: property
     - name: og:image
-      value: https://sharp4congress.b-cdn.net/images/bw-3.jpg
+      value: images/about.png
       keyName: property
+      relativeUrl: true
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
@@ -23,23 +24,22 @@ seo:
     - name: twitter:description
       value: This is the about page
     - name: twitter:image
-      value: https://sharp4congress.b-cdn.net/images/bw-3.jpg
+      value: images/about.png
+      relativeUrl: true
 layout: page
 ---
----
-### The Issues
-- [Read David's Platform](/about-issues)
----
 
-### The Candidate
-- [Read about David Sharp](/about-david)
----
+David Sharp is a husband, a veteran, a retired Finance Director, a Christian and a father of two.
 
-### The Race and Election
-- [Read about the upcoming 2022 Election](/about-race)
----
+![David Family](https://sharp4congress.b-cdn.net/images/david-family-2.jpg)
 
----
+He is member of the [Grapevine Baptist Church](https://www.gbcky.net/) in Madisonville.
 
-##### Interested in joining the team?
-[Come work for David](/support)
+Mr. Sharp is an 8 Year, ARMY Disabled Veteran and served as the Hopkins County Republican County Republican Chairman for 6 years!
+
+##### Think David will help get Hopkins County and Kentucky on the right path?
+
+<a href="https://secure.winred.com/david-sharp-campaign-fund/win" target="_blank">Click Here to Support His Run for Kentucky's House of Representatives</a>
+
+
+# [--> Read about the 2022 Race](/vote)
