@@ -122,7 +122,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "***The last day to register for the May Primary elections is April 18th. <a href='/vote'>Click here</a> to learn more.",
+        "anncmnt_content": "The last day to register for the May Primary elections is April 18th. <a href='/vote'>Click here</a> to learn more.",
         "anncmnt_align": "center",
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": true,
