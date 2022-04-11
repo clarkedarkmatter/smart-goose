@@ -5,9 +5,9 @@ subtitle: >-
 date: 2022-04-11
 categories:
   - content/data/categories/campaign.yaml
-thumb_image: /images/sharp-debate.png
+thumb_image: https://sharp4congress.b-cdn.net/images/sharp-debate.png
 thumb_image_alt: Sharp Radio
-image: /images/sharp-debate.png
+image: https://sharp4congress.b-cdn.net/images/sharp-debate.png
 image_alt: Radio Ads
 image_position: right
 episode_embed_html: >-
@@ -26,7 +26,7 @@ seo:
       value: Listen to the full debate here.
       keyName: property
     - name: og:image
-      value: /images/sharp-debate.png
+      value: https://sharp4congress.b-cdn.net/images/sharp-debate.png
       keyName: property
 layout: post
 ---
