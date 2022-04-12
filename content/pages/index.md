@@ -117,9 +117,6 @@ sections:
       - image: /images/endorsed.png
         image_alt: We The People Reunion Speech
         image_align: center
-      - image: https://sharp4congress.b-cdn.net/images/highlights-4.png
-        image_alt: Gun Raffle
-        image_align: center
       - image: https://sharp4congress.b-cdn.net/images/thanks.jpg
         image_alt: Certified by Term Limits Kentucky
         image_align: center
