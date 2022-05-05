@@ -168,7 +168,7 @@ seo:
       value: David Sharp for Kentucky State Representative
       keyName: property
     - name: 'og:description'
-      value: The official campaign page for Sharp for Kentucky State Representative.
+      value: Official Website Of David Sharp, 2022 Republican Candidate Running For Kentucky State Representative.
       keyName: property
     - name: 'og:image'
       value: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
