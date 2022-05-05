@@ -5,9 +5,9 @@ subtitle: >-
 date: 2022-05-03
 categories:
   - content/data/categories/campaign.yaml
-thumb_image: images/sharp-qa.png
+thumb_image: https://sharp4congress.b-cdn.net/images/sharp-qa.png
 thumb_image_alt: Sharp Radio
-image: images/sharp-qa.png
+image: https://sharp4congress.b-cdn.net/images/sharp-qa.png
 image_alt: Sharp Questions
 image_position: right
 episode_embed_html: >-
@@ -26,7 +26,7 @@ seo:
       value: Listen To Clips From Their Answers Here.
       keyName: property
     - name: og:image
-      value: /images/sharp-qa.png
+      value: https://sharp4congress.b-cdn.net//images/sharp-qa.png
       keyName: property
 layout: post
 ---
