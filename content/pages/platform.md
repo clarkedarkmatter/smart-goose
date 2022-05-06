@@ -20,8 +20,6 @@ layout: page
 ---
 ---
 
-
-### Pro-Trump Republican
 ### Pro-Life
 David believes life begins at conception.<br>
 He will fight to stop all funding to Planned Parenthood.
@@ -51,6 +49,9 @@ I blame some of our elected officials and the media for the hatred and rhetoric 
 ### Pro-Term Limits
 David 100% supports term limits for elected officials and fight to bring a term limit bill to the floor.
 
+### Pro-Trump Republican
+The America First movement has values that extend beyond the federal government. I will fight for those values in Frankfort.
+
 ![Term Limits](https://sharp4congress.b-cdn.net/images/thanks.jpg)
 
 ---
@@ -64,7 +65,6 @@ Signatures must be compared and matched on absentee ballots with NO 3rd party re
 Believes that we should have a balanced budget.<br>
 It is the responsibility of our elected officials to pass a balanced budget.<br>
 As households, we must live by a budget, so should our government.
-
 
 ---
 #### Support these things too?

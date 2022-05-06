@@ -26,7 +26,7 @@ seo:
       value: Listen To Clips From Their Answers Here.
       keyName: property
     - name: og:image
-      value: https://sharp4congress.b-cdn.net//images/sharp-qa.png
+      value: https://sharp4congress.b-cdn.net/images/sharp-qa.png
       keyName: property
 layout: post
 ---
