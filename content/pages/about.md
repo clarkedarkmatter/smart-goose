@@ -29,17 +29,18 @@ seo:
 layout: page
 ---
 
-David Sharp is a husband, a veteran, a retired Finance Director, a Christian and a father of three.
+#### Mr. Sharp is an 8 Year, ARMY Veteran and served as the Hopkins County Republican County Republican Chairman for 6 years!
+
+---
 
 ![David Family](https://sharp4congress.b-cdn.net/images/david-family-2.jpg)
 
 He is member of the [Grapevine Baptist Church](https://www.gbcky.net/) in Madisonville.
 
-Mr. Sharp is an 8 Year, ARMY Veteran and served as the Hopkins County Republican County Republican Chairman for 6 years!
 
 ##### Think David will help get Hopkins County and Kentucky on the right path?
 
 <a href="https://secure.winred.com/david-sharp-campaign-fund/win" target="_blank">Click Here to Support His Run for Kentucky's House of Representatives</a>
 
 
-# [--> Read about the 2022 Race](/vote)
+## [--> Read David Sharp's Platform <--](/platform)
