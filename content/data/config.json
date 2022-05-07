@@ -1,7 +1,7 @@
 {
     "title": "David Sharp for Kentucky State Representative",
     "path_prefix": "/",
-    "layout_type": "boxed",
+    "layout_type": "wide",
     "style": "bold",
     "palette": "red",
     "mode": "dark",
@@ -51,8 +51,8 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contribute to Team Sharp",
-                "url": "https://secure.winred.com/david-sharp-campaign-fund/win",
+                "label": "Find Out Where To Vote",
+                "url": "/vote",
                 "style": "primary"
             }
         ]
@@ -122,7 +122,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "The last day to register for the May Primary elections is April 18th. <a href='/vote'>Click here</a> to learn more.",
+        "anncmnt_content": "Early Voting Is May 12, 13 & 14. <a href='/vote'>Click Here</a> To find out when and where to vote.",
         "anncmnt_align": "center",
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": true,
