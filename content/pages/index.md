@@ -2,12 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: On May 17th, Vote Sharp for Hopkins County
-    subtitle: David Sharp Needs Our Support To Win The Republican Nomination.
+    title: Early Voting Has Started. Vote Sharp.
+    subtitle: Cast Your Vote For David Sharp On May 12, 13 or 14. Final Day To Vote Is May 17.
     content: |
     actions:
-      - label: Read David's Platform
-        url: /platform
+      - label: Find Voting Center Near You
+        url: /vote
         style: primary
     image: https://sharp4congress.b-cdn.net/images/hero4.png
     image_alt: David Sharp
@@ -45,6 +45,22 @@ sections:
   - type: grid_section
     title: Support David Sharp for State Representative
     grid_items:
+      - title: Vote
+        title_align: center
+        content_align: center
+        actions:
+          - label: Vote For David Sharp
+            url: /vote
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        actions_align: center
+        image: https://sharp4congress.b-cdn.net/images/join.png
+        image_alt: Overcast icon
+        image_position: top
+        image_align: center
+        image_has_padding: true
       - title: Donate
         title_align: center
         content_align: center
@@ -61,12 +77,12 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Join
+      - title: Contact
         title_align: center
         content_align: center
         actions:
-          - label: Sign up to volunteer or host
-            url: /join
+          - label: Contact Team Sharp
+            url: /contact
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -74,22 +90,6 @@ sections:
         actions_align: center
         image: https://sharp4congress.b-cdn.net/images/group.png
         image_alt: Spotify icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-      - title: Follow
-        title_align: center
-        content_align: center
-        actions:
-          - label: Contact us on social media
-            url: /contact
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-        image: https://sharp4congress.b-cdn.net/images/join.png
-        image_alt: Overcast icon
         image_position: top
         image_align: center
         image_has_padding: true
@@ -111,6 +111,9 @@ sections:
     subtitle: 2021
     align: center
     grid_items:
+      - image: /images/dear-community.png
+        image_alt: Certified by Term Limits Kentucky
+        image_align: center
       - image: https://sharp4congress.b-cdn.net/images/highlight.jpg
         image_alt: We The People Reunion Speech
         image_align: center
@@ -120,6 +123,7 @@ sections:
       - image: https://sharp4congress.b-cdn.net/images/thanks.jpg
         image_alt: Certified by Term Limits Kentucky
         image_align: center
+
 
     grid_cols: four
     grid_gap_horiz: medium
@@ -156,7 +160,7 @@ sections:
 seo:
   title: David Sharp for Kentucky State Representative
   description: >-
-    Official Page of David Sharp, Republican Running to Represent Hopkins County in Kentucky's House of Representatives.
+    Official Page of David Sharp, Hopkins County Republican for District 4 State Representative.
   extra:
     - name: 'og:type'
       value: website
@@ -168,7 +172,7 @@ seo:
       value: David Sharp for Kentucky State Representative
       keyName: property
     - name: 'og:description'
-      value: Official Website Of David Sharp, 2022 Republican Candidate Running For Kentucky State Representative.
+      value: Official Website Of David Sharp, 2022 Republican Candidate For Kentucky State Representative.
       keyName: property
     - name: 'og:image'
       value: https://sharp4congress.b-cdn.net/images/sharp-campaign.jpg
