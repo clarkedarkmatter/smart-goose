@@ -1,20 +1,20 @@
 ---
 title: Cast Your Vote For David L. Sharp
 seo:
-  title: Cast Your Vote For Sharp
+  title: Cast Your Vote For David L. Sharp | Vote Early
   description: Find Polling Locations and Times Here.
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Cast Your Vote For Sharp
+      value: Cast Your Vote For David L. Sharp | Vote Early
       keyName: property
     - name: og:description
-      value: Find Early Voting Locations Here.
+      value: Find Early Voting Locations Near You And Vote David Sharp.
       keyName: property
     - name: og:image
-      value: /images/vote-sharp.png
+      value: https://sharp4congress.b-cdn.net/images/vote-sharp.png
       keyName: property
     - name: twitter:card
       value: summary_large_image
@@ -28,7 +28,7 @@ layout: page
 ---
 ---
 
-![Vote Early](/images/vote-sharp.png)
+![Vote Early](https://sharp4congress.b-cdn.net/images/vote-sharp.png)
 
 ##### Starting THIS Thursday, May 12, <u>in-person voting will begin at the Ballard Convention Center.</u>
 
