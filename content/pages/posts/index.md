@@ -53,10 +53,10 @@ seo:
       value: website
       keyName: property
     - name: og:title
-      value: Posts
+      value: David's Posts
       keyName: property
     - name: og:description
-      value: This is the posts page
+      value: View David Sharp's Posts From The Campaign Trail.
       keyName: property
     - name: og:image
       value: images/post-9.jpg
