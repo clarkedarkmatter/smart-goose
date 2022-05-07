@@ -39,8 +39,6 @@ sections:
     has_border: false
     background_color: none
     background_image: https://sharp4congress.b-cdn.net/images/pattern.svg
-    background_image_repeat: repeat
-    background_image_size: auto
     background_image_opacity: 98
   - type: grid_section
     title: Support David Sharp for State Representative
@@ -108,28 +106,28 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     title: Highlights
-    subtitle: 2021
+    subtitle: David Sharp's Top Campaign Events
     align: center
     grid_items:
-      - image: /images/dear-community.png
+      - image: https://sharp4congress.b-cdn.net/images/dear-community.png
         image_alt: Certified by Term Limits Kentucky
         image_align: center
       - image: https://sharp4congress.b-cdn.net/images/highlight.jpg
         image_alt: We The People Reunion Speech
         image_align: center
-      - image: /images/endorsed.png
+      - image: https://sharp4congress.b-cdn.net/images/endorsed.png
         image_alt: We The People Reunion Speech
         image_align: center
       - image: https://sharp4congress.b-cdn.net/images/thanks.jpg
         image_alt: Certified by Term Limits Kentucky
         image_align: center
-
-
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
     has_border: true
     background_color: none
+    background_image: https://sharp4congress.b-cdn.net/images/pattern.svg
+
   - type: form_section
     content: |-
       # Join a Movement to Save Our Nation
@@ -137,7 +135,7 @@ sections:
     content_align: left
     form_position: right
     form_width: fifty
-    form_layout: inline
+    form_layout: block
     enable_card: true
     form_id: contact-form
     form_action: https://formkeep.com/f/7d735d06c1e5
@@ -149,13 +147,9 @@ sections:
         is_required: true
     submit_label: Submit
     align_vert: top
-    padding_top: medium
-    padding_bottom: medium
+    padding_top: small
+    padding_bottom: small
     background_color: none
-    background_image: https://sharp4congress.b-cdn.net/images/pattern.svg
-    background_image_repeat: repeat
-    background_image_size: auto
-    background_image_opacity: 98
 
 seo:
   title: David Sharp for Kentucky State Representative

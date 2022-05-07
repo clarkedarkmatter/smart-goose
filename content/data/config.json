@@ -122,7 +122,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Early Voting Is May 12, 13 & 14. <a href='/vote'>Click Here</a> To find out when and where to vote.",
+        "anncmnt_content": "Early Voting Starts May 12, 13 & 14. <a href='/vote'>Click Here</a> To Find Out When And Where To Vote.",
         "anncmnt_align": "center",
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": true,
