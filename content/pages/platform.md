@@ -1,5 +1,5 @@
 ---
-title: David Sharp's Platform
+title: David L. Sharp's Platform
 seo:
   title: Platform - David Sharp for Congress
   description: The platform page for David Sharp for Congress
@@ -20,46 +20,50 @@ layout: page
 ---
 ---
 
-### Pro-Life
-David believes life begins at conception.<br>
-He will fight to stop all funding to Planned Parenthood.
+## Pro-Life
 
-### Pro-Small Business
-David will bring bills to the floor to give tax cuts for those running a small business.
+David Sharp believes <u>life begins at conception.</u><br>
+#### He will fight to **make abortions <u>illegal</u> in Kentucky.**
 
-### Anti-Mandate
+---
 
-### Pro-2A
+## Pro-2A
+
 The Constitution gives us the right to carry and bear arms.<br>
-Any attempt to take away that right is an assault on our liberties and our Constitution.
-<br>
 
 ![David 2A winner](https://sharp4congress.b-cdn.net/images/winner-2a.jpg)
 
+#### <u>Any attempt</u> to take away that right is an assault on our liberties and our Constitution and ***will be met with heavy resistance.***
 ---
 
-#### Support these things too?
-<a href="https://secure.winred.com/david-sharp-campaign-fund/win" target="_blank">Click Here to Contribute to David Sharp's Run for Kentucky's House of Representatives</a>
+## Pro-Small Business
+##### David Sharp will pass <u>huge tax cuts</u> for those running a small business.
 
 ---
 
-### Pro-Police
-I blame some of our elected officials and the media for the hatred and rhetoric about the men and women that protect and serve us.
+## Pro-Trump Conservative
+President Donald J. Trump started the The America First movement. That movement has values that extend to our local and state governments and I will fight to actualize those agenda items.
+
+---
+
+## Anti-'Mandate'
+##### No matter how medical experts or government agencies want us to feel, ***we will <u>never</u> give up our freedoms.***
+
+
+---
+
+
+## Ready To Vote?
+<a href="/vote" target="_blank">Click Here to Find Out When And Where You Can Vote EARLY</a>
+
+---
 
 ### Pro-Term Limits
 David 100% supports term limits for elected officials and fight to bring a term limit bill to the floor.
 
-### Pro-Trump Republican
-The America First movement has values that extend beyond the federal government. I will fight for those values in Frankfort.
-
 ![Term Limits](https://sharp4congress.b-cdn.net/images/thanks.jpg)
 
 ---
-
-### Pro-Election Integrity
-Everyone must have an ID to vote.<br>
-David believes that vote harvesting should not be allowed.<br>
-Signatures must be compared and matched on absentee ballots with NO 3rd party requests for absentee ballots.
 
 ### Pro-Balanced Budget
 Believes that we should have a balanced budget.<br>
@@ -67,7 +71,5 @@ It is the responsibility of our elected officials to pass a balanced budget.<br>
 As households, we must live by a budget, so should our government.
 
 ---
-#### Support these things too?
-<a href="/join" target="_blank">Click Here to Contribute to David Sharp's Run for Kentucky's House of Representatives</a>
 
-### [--> Read about David Sharp, the candidate](/about)
+## [--> Click To Find Out How And Where To Vote EARLY <--](/vote)
