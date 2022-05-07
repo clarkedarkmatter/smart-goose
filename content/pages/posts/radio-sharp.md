@@ -2,7 +2,7 @@
 title: Listen to David Sharp's Radio Message
 subtitle: >-
   David Sharp needs your opinion. What do you think of his platform?
-date: 2022-03-17
+date: 2022-04-25
 categories:
   - content/data/categories/campaign.yaml
 thumb_image: https://sharp4congress.b-cdn.net/images/sharp-col.png
