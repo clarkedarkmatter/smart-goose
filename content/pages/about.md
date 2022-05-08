@@ -1,5 +1,5 @@
 ---
-title: About David Sharp
+title: About David L. Sharp
 seo:
   title: About David Sharp for Congress
   description: This is the about page
@@ -29,17 +29,34 @@ seo:
 layout: page
 ---
 
-#### Mr. Sharp is an 8 Year, ARMY Veteran and served as the Hopkins County Republican County Republican Chairman for 6 years!
+### Mr. Sharp is an Army Veteran and served as the Hopkins County Republican Party Chairman for 6 years.
+
+---
+
+### He is the father of three amazing children.
 
 ---
 
 ![David Family](https://sharp4congress.b-cdn.net/images/david-family-2.jpg)
 
-He is member of the [Grapevine Baptist Church](https://www.gbcky.net/) in Madisonville.
+---
+
+### He is member of the <u>[Grapevine Baptist Church](https://www.gbcky.net/)</u> in Madisonville.
+
+---
+
+### And David is a new grandfather.
+
+---
+
+![David Family](https://sharp4congress.b-cdn.net/images/grandchild.jpg)
+
+---
+
 
 ##### Think David will help get Hopkins County and Kentucky on the right path?
 
 <a href="/vote" target="_blank">Click Here To Learn How To Early Vote</a>
 
 
-## [--> Read David Sharp's Platform <--](/platform)
+## [--> Learn How You Can Vote For David Sharp <--](/vote)
