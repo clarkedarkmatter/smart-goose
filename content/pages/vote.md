@@ -38,7 +38,7 @@ The Ballard Convention Center is located at 605 East Arch St. Madisonville, KY 4
 
 ---
 
-#### This Thursday, Friday and Saturday (May 12, 13 & 14), ANY registered voter can drop by between 8 a.m. and 4 p.m., regardless of what their normal voting precinct may be.
+#### This Thursday, Friday and Saturday (May 12, 13 & 14), ANY registered voter can drop by the Ballard Convention Center between 8 a.m. and 4 p.m., <u>regardless of what their normal voting precinct may be.</u>
 
 <a href="https://elect.ky.gov/Voters/Pages/Polling-Locations.aspx" target="_blank">View Kentucky's Official Polling Location Page</a>
 
