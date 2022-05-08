@@ -27,7 +27,7 @@ David Sharp believes <u>life begins at conception.</u><br>
 #### He will fight to make abortions <u>illegal</u> in Kentucky.
 ---
 
-![David Sharp For Pro-Life](/images/endorsed.png)
+![David Sharp For Pro-Life](https://sharp4congress.b-cdn.net/images/endorsed.png)
 
 ---
 ## Pro-Teacher
@@ -36,7 +36,7 @@ David Sharp believes <u>life begins at conception.</u><br>
 Early in my campaign, I decided that ALL teachers should be able to write off up to $2,000 of what they spend for their classroom - instead of the outdated $250. I will work hard to bring a bill to the floor to get this passed. Our teachers deserve it.
 
 ---
-![David Sharp For Teachers](/images/teach.jpg)
+![David Sharp For Teachers](https://sharp4congress.b-cdn.net/images/teach.jpg)
 
 ---
 
@@ -71,7 +71,7 @@ President Donald J. Trump started the America First movement. This philosophy ca
 ##### No matter how medical experts or government agencies want us to feel, ***we will <u>never</u> give up our freedoms.***
 
 ---
-![David Sharp Against Mandates](/images/protest.jpg)
+![David Sharp Against Mandates](https://sharp4congress.b-cdn.net/images/protest.jpg)
 
 ---
 

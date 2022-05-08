@@ -37,10 +37,9 @@ layout: page
 
 He is member of the [Grapevine Baptist Church](https://www.gbcky.net/) in Madisonville.
 
-
 ##### Think David will help get Hopkins County and Kentucky on the right path?
 
-<a href="https://secure.winred.com/david-sharp-campaign-fund/win" target="_blank">Click Here to Support His Run for Kentucky's House of Representatives</a>
+<a href="/vote" target="_blank">Click Here To Learn How To Early Vote</a>
 
 
 ## [--> Read David Sharp's Platform <--](/platform)
