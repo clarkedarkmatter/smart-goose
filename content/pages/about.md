@@ -29,6 +29,8 @@ seo:
 layout: page
 ---
 
+---
+
 ### Mr. Sharp is an Army Veteran and served as the Hopkins County Republican Party Chairman for 6 years.
 
 ---
