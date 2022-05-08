@@ -41,6 +41,6 @@ layout: page
 - Call or text us @ [270-836-6642](tel:2708366642).
 - Message us on Facebook by clicking [here.](http://m.me/sharp4ky)
 
-![David Walks](/images/david-walks.jpg)
+![David Supporters Yard Sign](https://sharp4congress.b-cdn.net/images/yard.jpg)
 
 ### We'd love to hear from you!

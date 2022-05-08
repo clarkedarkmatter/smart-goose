@@ -33,10 +33,11 @@ David Sharp believes <u>life begins at conception.</u><br>
 ## Pro-Teacher
 ---
 
-Early in my campaign, I decided that ALL teachers should be able to write off up to $2,000 of what they spend for their classroom - instead of the outdated $250. I will work hard to bring a bill to the floor to get this passed. Our teachers deserve it.
+#### Early in my campaign, I decided that ALL teachers should be able to write off <u>up to $2,000</u> of what they spend for their classroom - instead of the outdated $250.
+I will work hard to bring a bill to the floor to get this passed. Our teachers deserve it.
 
 ---
-![David Sharp For Teachers](https://sharp4congress.b-cdn.net/images/teach.jpg)
+![David Sharp For Lets Go Brandon](https://sharp4congress.b-cdn.net/images/letsgobrandon.jpg)
 
 ---
 
@@ -59,6 +60,11 @@ The Constitution gives us the right to carry and bear arms.<br>
 ##### David Sharp will pass <u>huge tax cuts</u> for those running a small business.
 
 ---
+
+![David Sharp Against Mandates](https://sharp4congress.b-cdn.net/images/highlights-3.png)
+
+---
+
 
 ## Pro-Trump Conservative
 ---
