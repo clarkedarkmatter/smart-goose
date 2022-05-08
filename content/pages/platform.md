@@ -30,14 +30,10 @@ David Sharp believes <u>life begins at conception.</u><br>
 ![David Sharp For Pro-Life](https://sharp4congress.b-cdn.net/images/endorsed.png)
 
 ---
-## Pro-Teacher
----
 
-#### Early in my campaign, I decided that ALL teachers should be able to write off <u>up to $2,000</u> of what they spend for their classroom - instead of the outdated $250.
-I will work hard to bring a bill to the floor to get this passed. Our teachers deserve it.
-
+## Pro-Trump Conservative
 ---
-![David Sharp For Lets Go Brandon](https://sharp4congress.b-cdn.net/images/letsgobrandon.jpg)
+President Donald J. Trump started the America First movement. This philosophy can be applied to state and local governance too.
 
 ---
 
@@ -57,7 +53,7 @@ The Constitution gives us the right to carry and bear arms.<br>
 ## Pro-Small Business
 
 ---
-##### David Sharp will pass <u>huge tax cuts</u> for those running a small business.
+##### David Sharp will move to pass <u>huge tax cuts</u> for those running a small business.
 
 ---
 
@@ -65,10 +61,11 @@ The Constitution gives us the right to carry and bear arms.<br>
 
 ---
 
-
-## Pro-Trump Conservative
+## Pro-Teacher
 ---
-President Donald J. Trump started the America First movement. This philosophy can be applied to state and local governance too.
+
+#### Early in my campaign, I decided that ALL teachers should be able to write off <u>up to $2,000</u> of what they spend for their classroom - instead of the outdated $250.
+I will work hard to bring a bill to the floor to get this passed. Our teachers deserve it.
 
 ---
 
@@ -88,7 +85,7 @@ President Donald J. Trump started the America First movement. This philosophy ca
 ---
 
 
-### Pro-Term Limits
+## Pro-Term Limits
 ---
 David 100% supports term limits for elected officials and fight to bring a term limit bill to the floor.
 
@@ -96,7 +93,7 @@ David 100% supports term limits for elected officials and fight to bring a term 
 
 ---
 
-### Pro-Balanced Budget
+## Pro-Balanced Budget
 ---
 David knows that we should have a balanced budget.<br>
 It is the responsibility of our elected officials to pass a balanced budget.<br>
