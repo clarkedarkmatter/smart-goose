@@ -30,9 +30,13 @@ layout: page
 
 ![Vote Early](https://sharp4congress.b-cdn.net/images/vote-sharp.png)
 
+---
+
 #### Starting THIS Thursday, May 12, <u>in-person voting will begin at the Ballard Convention Center.</u>
 
 The Ballard Convention Center is located at 605 East Arch St. Madisonville, KY 42431
+
+---
 
 #### This Thursday, Friday and Saturday (May 12, 13 & 14), ANY registered voter can drop by between 8 a.m. and 4 p.m., regardless of what their normal voting precinct may be.
 
@@ -45,7 +49,7 @@ The Ballard Convention Center is located at 605 East Arch St. Madisonville, KY 4
 ---
 
 ## Election Day Polling Locations - <u>May 17, 2022</u>
-
+---
 ##### White Plains Community Center
 112 North East Railroad St
 <br>White Plains, KY 42464
@@ -95,7 +99,7 @@ The Ballard Convention Center is located at 605 East Arch St. Madisonville, KY 4
 100 South Bernard St.
 <br>Nebo, KY 42441
 <br>Precincts: E030, E031
-
+---
 ##### West Hopkins School
 2695 Rabbit Ridge Rd.
 <br>Nebo, KY 42450
