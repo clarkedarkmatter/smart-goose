@@ -45,6 +45,10 @@ layout: page
 
 ---
 
+### He's a retired financial director.
+
+---
+
 ### And David is a new grandfather.
 
 ---
