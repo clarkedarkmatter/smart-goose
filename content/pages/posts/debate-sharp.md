@@ -51,9 +51,9 @@ The debate is split into two parts.
 </figure>
 
 
-#### Let's make sure David gets his message to Frankfort:
+# Vote early.
 
-[Click Here To Support David Sharp's Campaign](/support)
+<button>[Find Out When And Where To Vote Early](/vote)</button>
 
 
 # [See Last Post -->](/posts/radio-sharp)

@@ -5,9 +5,9 @@ subtitle: >-
 date: 2021-05-12
 categories:
   - content/data/categories/campaign.yaml
-thumb_image: images/davidhomeless.jpg
+thumb_image: https://sharp4congress.b-cdn.net/images/davidhomeless.jpg
 thumb_image_alt: David visits homeless veterans
-image: images/homeless.jpg
+image: https://sharp4congress.b-cdn.net/images/homeless.jpg
 image_alt: Homeless veterans
 image_position: right
 episode_embed_html: >-
@@ -49,7 +49,7 @@ by clicking [here.](/join)
 ##### Over 40,000 veterans and their families don't know where they'll sleep tonight.
 ### It's our responsibility.
 
-![Homeless](/images/davidhomeless.jpg)
+![Homeless](https://sharp4congress.b-cdn.net/images/davidhomeless.jpg)
 
 ##### Fight for veterans
 by clicking [here.](/join)
