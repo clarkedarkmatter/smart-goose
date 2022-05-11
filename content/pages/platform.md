@@ -64,14 +64,19 @@ The Constitution gives us the right to carry and bear arms.<br>
 ## Pro-Teacher
 ---
 
-#### Early in my campaign, I decided that ALL teachers should be able to write off <u>up to $2,000</u> of what they spend for their classroom - instead of the outdated $250.
-I will work hard to bring a bill to the floor to get this passed. Our teachers deserve it.
+#### Early in David's campaign, he decided that all teachers should be able to write off <u>up to $2,000</u> of what they spend for their classroom - instead of the outdated $250.
+He will work hard to bring a bill to the floor and get it passed.
+
+#### Our teachers deserve it.
 
 ---
 
 ## Anti-Mandate
 ---
-##### No matter how medical experts or government agencies want us to feel, ***we will <u>never</u> give up our freedoms.***
+
+> Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.
+
+- Ben Franklin
 
 ---
 ![David Sharp Against Mandates](https://sharp4congress.b-cdn.net/images/protest.jpg)
@@ -80,7 +85,7 @@ I will work hard to bring a bill to the floor to get this passed. Our teachers d
 
 
 ## Ready To Vote?
-<a href="/vote" target="_blank">Click Here to Find Out When And Where You Can Vote EARLY</a>
+<button> [Find A Voting Center Near You](/vote)</button>
 
 ---
 
@@ -103,4 +108,4 @@ If we don't, there should be consequences.
 
 ---
 
-## [--> Click To Find Out How And Where To Vote EARLY <--](/vote)
+<button> [Want To Vote EARLY? Click Here.](/vote)</button>
