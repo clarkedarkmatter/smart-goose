@@ -42,7 +42,7 @@ Click the **Play** button below to hear a sample.
 </figure>
 
 
-#### Let's make sure David gets his message to Frankfort:
+# Vote early.
 
 [Click Here To Support David Sharp's Campaign](/support)
 

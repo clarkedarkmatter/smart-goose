@@ -5,9 +5,9 @@ subtitle: >-
 date: 2021-05-12
 categories:
   - content/data/categories/campaign.yaml
-thumb_image: images/school-board-2.jpg
+thumb_image: https://sharp4congress.b-cdn.net/images/school-board-2.jpg
 thumb_image_alt: Episode 10 placeholder image
-image: images/school-board.jpg
+image: https://sharp4congress.b-cdn.net/images/school-board.jpg
 image_alt: School board
 image_position: left
 episode_embed_html: >-
@@ -48,7 +48,7 @@ by clicking [here.](/support)
 
 ### Whether it's masks, vaccines, CRT, or school choice, the PARENT always knows best.
 
-![Homeless](/images/school-board-2.jpg)
+![Homeless](https://sharp4congress.b-cdn.net/images/school-board-2.jpg)
 
 ---
 ##### Support our initiatives?
