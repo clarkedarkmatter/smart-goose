@@ -36,17 +36,13 @@ Click the **Play** button below to hear the questions and answers from David Sha
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pJPOOUW_xF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BW33W1lc7yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L0UDhjViWII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Remember, anyone can vote early.
+#### This Thursday, Friday & Saturday (May 12,13 & 14)
 
-
-#### Let's make sure David gets his message to Frankfort:
-
-[Click Here To Support David Sharp's Campaign](/support)
+<button>[Click Here To Learn Where You Can Vote Early](/vote)</button>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G7ZLL7VcS4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/75VR1wmrJ08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### [Need To Hear More? Click Here To Listen To Their Radio Debate -->](/posts/debate-sharp)
