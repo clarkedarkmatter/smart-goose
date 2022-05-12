@@ -10,8 +10,7 @@ thumb_image_alt: Sharp at We The People
 image: https://sharp4congress.b-cdn.net/images/david-and-mike.jpg
 image_alt: David Sharp and Mike Lindell
 image_position: left
-episode_embed_html: >-
-  <iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/vkwq17/?pub=sh39v" frameborder="0" allowfullscreen></iframe>
+episode_embed_html:
 seo:
   title: David Sharp Joins General Micheal Flynn, Mike Lindell at We The People Reunion
   description: David Sharp - The 'We The People' Candidate
@@ -38,9 +37,8 @@ layout: post
 Alongside guests and speakers like General Michael Flynn, Ann Vandersteel, Artur Pawlowski, John Di Lemme, founder of the Conservative Business Journal, Pastor Greg Locke and Tom Homan, former Acting Director of ICE, David Sharp slams Planned Parenthood, excessive spending and tells us to 'Demand America First' in every aspect of our lives.
 
 
-[If you Support The Campaign - Click Here](/support)
+# Ready To Vote?
+<button>[EARLY VOTING HAS STARTED - CLICK HERE TO FIND A VOTING CENTER NEAR YOU](/vote)</button>
 
 
 ---
-
-# [See Last Post -->](/posts/homeless-vets)
