@@ -1,29 +1,29 @@
 ---
-title: General Micheal Flynn, Mike Lindell & David speak at We The People
+title: David Sharp Speaks With General Micheal Flynn, Mike Lindell at We The People Reunion
 subtitle: >-
-  In Madisonville, Kentucky, David walks with Veterans in the a huge showing of support for our nations' heroes.
+  David Sharp - The 'We The People' Candidate
 date: 2021-10-20
 categories:
   - content/data/categories/campaign.yaml
 thumb_image: https://sharp4congress.b-cdn.net/images/david-and-mike.jpg
 thumb_image_alt: Sharp at We The People
 image: https://sharp4congress.b-cdn.net/images/david-and-mike.jpg
-image_alt: Podcast 1 placeholder image
+image_alt: David Sharp and Mike Lindell
 image_position: left
 episode_embed_html: >-
   <iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/vkwq17/?pub=sh39v" frameborder="0" allowfullscreen></iframe>
 seo:
-  title: David Sharp, Michael Flynn, Mike Lindell give speeches
-  description: David Sharp for Congress gives a compelling speech.
+  title: David Sharp Joins General Micheal Flynn, Mike Lindell at We The People Reunion
+  description: David Sharp - The 'We The People' Candidate
   extra:
     - name: og:type
       value: article
       keyName: property
     - name: og:title
-      value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: David Sharp Speaks With General Micheal Flynn, Mike Lindell at We The People Reunion
       keyName: property
     - name: og:description
-      value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+      value: David Sharp - The 'We The People' Candidate
       keyName: property
     - name: og:image
       value: https://sharp4congress.b-cdn.net/images/david-and-mike.jpg
