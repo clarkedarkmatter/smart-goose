@@ -28,16 +28,6 @@ seo:
     - name: og:image
       value: https://sharp4congress.b-cdn.net/images/david-and-mike.jpg
       keyName: property
-      relativeUrl: true
-    - name: twitter:card
-      value: summary_large_image
-    - name: twitter:title
-      value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
-    - name: twitter:description
-      value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
-    - name: twitter:image
-      value: https://sharp4congress.b-cdn.net/images/david-and-mike.jpg
-      relativeUrl: true
 layout: post
 ---
 
