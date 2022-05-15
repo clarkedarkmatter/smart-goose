@@ -30,8 +30,6 @@ seo:
 layout: post
 ---
 
-## Watch the speech.
-
 ### Did you know? David's campaign slogan is 'We The People'
 
 Alongside guests and speakers like General Michael Flynn, Ann Vandersteel, Artur Pawlowski, John Di Lemme, founder of the Conservative Business Journal, Pastor Greg Locke and Tom Homan, former Acting Director of ICE, David Sharp slams Planned Parenthood, excessive spending and tells us to 'Demand America First' in every aspect of our lives.

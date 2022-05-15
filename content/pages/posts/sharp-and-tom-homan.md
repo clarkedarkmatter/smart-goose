@@ -2,7 +2,7 @@
 title: David Sharp Dines With Former ICE Director Tom Homan
 subtitle: >-
   Kentucky Is Being Affected By Open Borders More Than You Think.
-date: 2022-05-03
+date: 2022-05-12
 categories:
   - content/data/categories/campaign.yaml
 thumb_image: https://sharp4congress.b-cdn.net/images/tom.png
