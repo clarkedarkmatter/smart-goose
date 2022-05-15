@@ -1,46 +1,26 @@
 ---
-title: Cast Your Vote Early For David L. Sharp
+title: On May 17th, Cast Your Vote For Republican David L. Sharp
 seo:
-  title: Cast Your Vote For David L. Sharp | Vote Early
+  title: On May 17th, Cast Your Vote For David L. Sharp
   description: Find Polling Locations and Times Here.
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Cast Your Vote For David L. Sharp | Vote Early
+      value: On May 17th, Cast Your Vote For Republican David L. Sharp
       keyName: property
     - name: og:description
-      value: Find Early Voting Locations Near You And Vote David Sharp.
+      value: Find Voting Locations Near You And Vote David Sharp.
       keyName: property
     - name: og:image
-      value: https://sharp4congress.b-cdn.net/images/vote-sharp.png
+      value: https://sharp4congress.b-cdn.net/images/sharp-vote.png
       keyName: property
-    - name: twitter:card
-      value: summary_large_image
-    - name: twitter:title
-      value: About
-    - name: twitter:description
-      value: This is the about page
-    - name: twitter:image
-      value: https://sharp4congress.b-cdn.net/images/blog/first-district.png
 layout: page
 ---
 ---
 
-![Vote Early](https://sharp4congress.b-cdn.net/images/vote-sharp.png)
-
----
-
-#### Starting THIS Thursday, May 12, <u>in-person voting will begin at the Ballard Convention Center.</u>
-
-The Ballard Convention Center is located at 605 East Arch St. Madisonville, KY 42431
-
----
-
-#### This Thursday, Friday and Saturday (May 12, 13 & 14), ANY registered voter can drop by the Ballard Convention Center between 8 a.m. and 4 p.m., <u>regardless of what their normal voting precinct may be.</u>
-
-<a href="https://elect.ky.gov/Voters/Pages/Polling-Locations.aspx" target="_blank">View Kentucky's Official Polling Location Page</a>
+![Vote Early](https://sharp4congress.b-cdn.net/images/sharp-vote.png)
 
 ---
 
